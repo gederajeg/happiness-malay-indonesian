@@ -1,0 +1,1285 @@
+period	period_short	words	title	genre	form
+1370	1300s	bahagia	Bayan 310:16	prose	root
+1380	1300s	bahagia	AHmz 25:35	prose	root
+1380	1300s	bahagia	AHmz 220:38 ....	prose	root
+1380	1300s	bahagia	AHmz 328:12 .	prose	root
+1380	1300s	bahagia	AHmz 362:28 .....	prose	root
+1380	1300s	bahagia	AHmz 430:23	prose	root
+1380	1300s	bahagia	AHmz 484:39	prose	root
+1380	1300s	bahagia	AHmz 697:39	prose	root
+1380	1300s	bahagia	MH 1/12:286 ........	prose	root
+1380	1300s	bahagia	MH 1/19:9 .........	prose	root
+1530	1500s	bahagia	Rama 31:2 ...	prose	root
+1530	1500s	bahagia	Rama 33:2 .....	prose	root
+1530	1500s	bahagia	Rama 87:13 ...	prose	root
+1530	1500s	bahagia	Rama 166:1 ....	prose	root
+1530	1500s	bahagia	Rama 659:6 ..	prose	root
+1570	1500s	bahagia	Isk 19:8 .......	prose	root
+1570	1500s	bahagia	Isk 22:26 .........	prose	root
+1570	1500s	bahagia	Isk 58:13 ...........	prose	root
+1570	1500s	bahagia	Isk 64:11 ....	prose	root
+1570	1500s	bahagia	Isk 256:5 ....	prose	root
+1570	1500s	bahagia	Isk 269:39 ...	prose	root
+1570	1500s	bahagia	Isk 290:18 .......	prose	root
+1600	1600s	bahagia	Boma 54:25 ...	prose	root
+1600	1600s	bahagia	TS.K 79:11 .......	prose	root
+1600	1600s	bahagia	TS.K 157:2 ........	prose	root
+1600	1600s	bahagia	TS.R 12:7	prose	root
+1600	1600s	bahagia	TS.R 82:16 ...	prose	root
+1600	1600s	bahagia	TS.R 170:14 ...	prose	root
+1620	1600s	bahagia	Aceh 117:17 ....	prose	root
+1620	1600s	bahagia	Aceh 148:6	prose	root
+1620	1600s	bahagia	Aceh 195:2 ..	prose	root
+1620	1600s	bahagia	Aceh 195:2 ..	prose	root
+1620	1600s	bahagia	Aceh 195:2 ..	prose	root
+1620	1600s	bahagia	Aceh 220:9 ..	prose	root
+1620	1600s	bahagia	Aceh 221:1 ....	prose	root
+1620	1600s	bahagia	Aceh 279:10 .	prose	root
+1650	1600s	bahagia	IbrA 100:39 .	prose	root
+1650	1600s	bahagia	IbrA 166:36 .	prose	root
+1650	1600s	bahagia	IbrA 223:10 .	prose	root
+1650	1600s	bahagia	SM 26:31 .	prose	root
+1680	1600s	bahagia	IbrA.s 16:28	prose	root
+1700	1700s	bahagia	Tuah 2:21 .	prose	root
+1750	1700s	bahagia	Anb 209:24 .	prose	root
+1750	1700s	bahagia	Anb 254:25 .	prose	root
+1750	1700s	bahagia	Anb 688:12	prose	root
+1750	1700s	bahagia	Anb 706:31 .	prose	root
+1780	1700s	bahagia	Misa 131:8 .	prose	root
+1800	1800s	bahagia	ABS 24:6 .	prose	root
+1820	1800s	bahagia	Perak 64:8	prose	root
+1840	1800s	bahagia	Abd.H 440:10	prose	root
+1860	1800s	bahagia	Dmsy.H 634	prose	root
+1860	1800s	bahagia	Dmsy.H 635	prose	root
+1870	1800s	bahagia	KSPL Maz 81:16	prose	root
+1930	1900s	bahagia	KSPB Rom 4:6 .	prose	root
+1930	1900s	bahagia	KSPB Rom 4:9 .	prose	root
+1930	1900s	bahagia	KSPB 2Ti 1:18	prose	root
+1590	1500s	bahagia	AN a15	tracts_&_manuals	root
+1590	1500s	bahagia	HF 34:2b .	tracts_&_manuals	root
+1590	1500s	bahagia	HF 34:9c	tracts_&_manuals	root
+1590	1500s	bahagia	HF 37:9b ,	tracts_&_manuals	root
+1650	1600s	bahagia	ST 67	tracts_&_manuals	root
+1650	1600s	bahagia	ST 306	tracts_&_manuals	root
+1820	1800s	bahagia	Tkbr 105:4	tracts_&_manuals	root
+1820	1800s	bahagia	Tkbr 109:11	tracts_&_manuals	root
+1820	1800s	bahagia	Tkbr 127:8	tracts_&_manuals	root
+1850	1800s	bahagia	Pwng 261	tracts_&_manuals	root
+1910	1900s	bahagia	Guna 23:5	tracts_&_manuals	root
+1640	1600s	bahagia	BS.S 2	letters_&_documents	root
+1640	1600s	bahagia	BS.S 7	letters_&_documents	root
+1640	1600s	bahagia	BS.R 1:11	letters_&_documents	root
+1640	1600s	bahagia	BS.R 1:12	letters_&_documents	root
+1640	1600s	bahagia	BS.R 2/2:113	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:313	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:369	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:369	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:416	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:422	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:442	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:461	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/2:475	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/4:543	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/4:556	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/4:562	letters_&_documents	root
+1640	1600s	bahagia	BS.M 3/4:562	letters_&_documents	root
+1800	1800s	bahagia	Banten 20:2	letters_&_documents	root
+1830	1800s	bahagia	Kel 1:3	letters_&_documents	root
+1860	1800s	bahagia	VdW MHS 3:2	letters_&_documents	root
+1870	1800s	bahagia	SRN 34:4	letters_&_documents	root
+1900	1900s	bahagia	Imam 316:26	newspapers	root
+1900	1900s	bahagia	Imam 321:18	newspapers	root
+1900	1900s	bahagia	Imam 325:12	newspapers	root
+1900	1900s	bahagia	Imam 341:1	newspapers	root
+1900	1900s	bahagia	Imam 385:21	newspapers	root
+1900	1900s	bahagia	Imam 423:6	newspapers	root
+1900	1900s	bahagia	Imam 423:8	newspapers	root
+1900	1900s	bahagia	Imam 423:33 .	newspapers	root
+1900	1900s	bahagia	Imam 431:22	newspapers	root
+1900	1900s	bahagia	Imam 459:10	newspapers	root
+1920	1900s	bahagia	PK 7:1c	newspapers	root
+1920	1900s	bahagia	PK 10:84b	newspapers	root
+1930	1900s	bahagia	MG Feb30:40	newspapers	root
+1930	1900s	bahagia	MG Feb30:40	newspapers	root
+1930	1900s	bahagia	S 22Feb30:7	newspapers	root
+1930	1900s	bahagia	MG Jan32:20	newspapers	root
+1930	1900s	bahagia	MG Mar34:107	newspapers	root
+1930	1900s	bahagia	WM 9Mar34:8	newspapers	root
+1930	1900s	bahagia	M 13Dec34:7	newspapers	root
+1930	1900s	bahagia	WM 17Jan35:10	newspapers	root
+1930	1900s	bahagia	M 31Jan35:7	newspapers	root
+1930	1900s	bahagia	PK 58:6c	newspapers	root
+1930	1900s	bahagia	S 29Apr36:9	newspapers	root
+1930	1900s	bahagia	S 8Aug36:3	newspapers	root
+1930	1900s	bahagia	PK 84:13c	newspapers	root
+1930	1900s	bahagia	S 9Jan37:3	newspapers	root
+1930	1900s	bahagia	S 22May37:9	newspapers	root
+1930	1900s	bahagia	S 22May37:9	newspapers	root
+1930	1900s	bahagia	S 29Sep37:3	newspapers	root
+1930	1900s	bahagia	S 25Dec37:2	newspapers	root
+1930	1900s	bahagia	S 5Feb38:7	newspapers	root
+1930	1900s	bahagia	S 25Dec38:3	newspapers	root
+1930	1900s	bahagia	PK 125:14d	newspapers	root
+1930	1900s	bahagia	PK 135:9b	newspapers	root
+1930	1900s	bahagia	S 31May39:5	newspapers	root
+1930	1900s	bahagia	S 31May39:5	newspapers	root
+1940	1900s	bahagia	PK 148:1c	newspapers	root
+1940	1900s	bahagia	PK 154:6b	newspapers	root
+1940	1900s	bahagia	PK 156:8b	newspapers	root
+1940	1900s	bahagia	PK 156:11d	newspapers	root
+1940	1900s	bahagia	PK 159:4d	newspapers	root
+1940	1900s	bahagia	PK 159:5d	newspapers	root
+1940	1900s	bahagia	PK 180:5b	newspapers	root
+1940	1900s	bahagia	PK 202:2a §	newspapers	root
+1940	1900s	bahagia	PK 264:1b	newspapers	root
+1940	1900s	bahagia	PK 300:1b	newspapers	root
+1940	1900s	bahagia	PK 301:2c	newspapers	root
+1940	1900s	bahagia	PK 301:3b	newspapers	root
+1940	1900s	bahagia	PK 301:6b	newspapers	root
+1940	1900s	bahagia	PK 301:8c	newspapers	root
+1940	1900s	bahagia	PK 301:8c	newspapers	root
+1940	1900s	bahagia	PK 326:1d §	newspapers	root
+1940	1900s	bahagia	PK 326:7d	newspapers	root
+1940	1900s	bahagia	PK 326:9b	newspapers	root
+1940	1900s	bahagia	PK 330:6d	newspapers	root
+1940	1900s	bahagia	PK 330:9b	newspapers	root
+1940	1900s	bahagia	PK 330:13b	newspapers	root
+1810	1800s	bahagia	Maul 1098c	verses	root
+1810	1800s	bahagia	Maul 1100d	verses	root
+1820	1800s	bahagia	Ungg 31r 4b |	verses	root
+1860	1800s	bahagia	BayB 13r 4d	verses	root
+1860	1800s	bahagia	Kmt 2:8b	verses	root
+1880	1800s	bahagia	RIJ 19d	verses	root
+1890	1800s	bahagia	SSiti 115:4c	verses	root
+1890	1800s	bahagia	PSL 13:5a	verses	root
+1890	1800s	bahagia	SAB 67:2d	verses	root
+1910	1900s	bahagia	Raksi 107b	verses	root
+1930	1900s	bahagia	TZA 1.35c	verses	root
+1930	1900s	bahagia	TZA 1.188b	verses	root
+1930	1900s	bahagia	TZA 1.326d	verses	root
+1930	1900s	bahagia	TZA 1.419a	verses	root
+1930	1900s	bahagia	TZA 1.837d	verses	root
+1930	1900s	bahagia	TZA 1.906d	verses	root
+1930	1900s	bahagia	TZA 1.984d	verses	root
+1930	1900s	bahagia	TZA 1.1152a	verses	root
+1930	1900s	bahagia	TZA 1.1163d	verses	root
+1930	1900s	bahagia	TZA 1.1292d	verses	root
+1930	1900s	bahagia	TZA 1.1334d	verses	root
+1930	1900s	bahagia	TZA 2.667c	verses	root
+1930	1900s	bahagia	TZA 2.731b	verses	root
+1930	1900s	bahagia	TZA 2.1003c	verses	root
+1930	1900s	bahagia	TZA 2.1038c	verses	root
+1930	1900s	bahagia	TZA 2.1092c	verses	root
+1930	1900s	bahagia	TZA 2.1097c	verses	root
+1930	1900s	bahagia	TZA 2.1137d	verses	root
+1930	1900s	bahagia	TZA 2.1351d	verses	root
+1530	1500s	gembira	Rama 246:6	prose	root
+1600	1600s	gembira	TS.K 221:30	prose	root
+1600	1600s	gembira	TS.R 227:21	prose	root
+1650	1600s	gembira	Pel 43:1	prose	root
+1700	1700s	gembira	Tuah 145:24	prose	root
+1750	1700s	gembira	Anb 123:21	prose	root
+1750	1700s	gembira	Anb 127:11	prose	root
+1750	1700s	gembira	Anb 128:5	prose	root
+1780	1700s	gembira	Misa 168:12	prose	root
+1800	1800s	gembira	Bik 116:5	prose	root
+1810	1800s	gembira	PNB 70:8	prose	root
+1840	1800s	gembira	Mar 123a	prose	root
+1860	1800s	gembira	M&B 34:13	prose	root
+1860	1800s	gembira	M&B 117:19	prose	root
+1870	1800s	gembira	INata 108:2	prose	root
+1950	1900s	gembira	Sikka 17	prose	root
+1950	1900s	gembira	Sikka 244	prose	root
+1950	1900s	gembira	Sikka 246	prose	root
+1950	1900s	gembira	Sikka 250	prose	root
+1820	1800s	gembira	WBrn 8:11	letters_&_documents	root
+1920	1900s	gembira	PK 10:110b	newspapers	root
+1930	1900s	gembira	S 23May31:8	newspapers	root
+1930	1900s	gembira	M 2Jun32:6	newspapers	root
+1930	1900s	gembira	M 2Jun32:6	newspapers	root
+1930	1900s	gembira	M 2Jun32:6	newspapers	root
+1930	1900s	gembira	M 2Jun32:6	newspapers	root
+1930	1900s	gembira	M 2Jun32:6	newspapers	root
+1930	1900s	gembira	M 2Jun32:6	newspapers	root
+1930	1900s	gembira	M 14Jul32:6	newspapers	root
+1930	1900s	gembira	S 9Aug32:1	newspapers	root
+1930	1900s	gembira	M 19Sep32:7	newspapers	root
+1930	1900s	gembira	M 14Nov32:5	newspapers	root
+1930	1900s	gembira	M 13Dec34:7	newspapers	root
+1930	1900s	gembira	M 13Dec34:5	newspapers	root
+1930	1900s	gembira	S 2Feb35:6	newspapers	root
+1930	1900s	gembira	S 4Sep35:6	newspapers	root
+1930	1900s	gembira	S 23Feb38:7	newspapers	root
+1930	1900s	gembira	PK 144:2a	newspapers	root
+1940	1900s	gembira	PK 180:6c	newspapers	root
+1940	1900s	gembira	PK 201:5c	newspapers	root
+1940	1900s	gembira	PK 215:1d	newspapers	root
+1940	1900s	gembira	PK 215:10d	newspapers	root
+1940	1900s	gembira	PK 224:16c	newspapers	root
+1940	1900s	gembira	PK 236:4c	newspapers	root
+1940	1900s	gembira	PK 239:4a	newspapers	root
+1940	1900s	gembira	PK 248:2a	newspapers	root
+1940	1900s	gembira	PK 249:7d	newspapers	root
+1940	1900s	gembira	PK 280:8a	newspapers	root
+1940	1900s	gembira	PK 284:5b	newspapers	root
+1940	1900s	gembira	PK 303:3b	newspapers	root
+1750	1700s	gembira	Bid 154:5d	verses	root
+1750	1700s	gembira	KT 153:71b	verses	root
+1810	1800s	gembira	Maul 108b	verses	root
+1810	1800s	gembira	Maul 316a	verses	root
+1810	1800s	gembira	Maul 320c	verses	root
+1810	1800s	gembira	Maul 666c	verses	root
+1820	1800s	gembira	Zub 88:4a	verses	root
+1820	1800s	gembira	Zub 270:2a	verses	root
+1820	1800s	gembira	Zub 296:3a	verses	root
+1820	1800s	gembira	Zub 297:5a	verses	root
+1820	1800s	gembira	Zub 302:6a	verses	root
+1820	1800s	gembira	Zub 312:8a	verses	root
+1820	1800s	gembira	Zub 530:5c	verses	root
+1830	1800s	gembira	Perb 33c	verses	root
+1840	1800s	gembira	PJ 247c	verses	root
+1840	1800s	gembira	PJ 265b	verses	root
+1860	1800s	gembira	NurP 26:5d	verses	root
+1860	1800s	gembira	NurP 27:1c	verses	root
+1860	1800s	gembira	NurP 31:6d	verses	root
+1860	1800s	gembira	NurP 32:3c	verses	root
+1860	1800s	gembira	Dmsy.S 1627c	verses	root
+1860	1800s	gembira	Dmsy.S 1638c	verses	root
+1860	1800s	gembira	Awai 72b	verses	root
+1870	1800s	gembira	Wangk 33:2c	verses	root
+1870	1800s	gembira	WHaji f.7	verses	root
+1890	1800s	gembira	SSiti 161:10c	verses	root
+1890	1800s	gembira	SSiti 168:6d	verses	root
+1890	1800s	gembira	SSiti 171:3a	verses	root
+1890	1800s	gembira	RJoh 286a	verses	root
+1890	1800s	gembira	RJoh 408b	verses	root
+1890	1800s	gembira	RJoh 496b	verses	root
+1890	1800s	gembira	RJoh 514a	verses	root
+1890	1800s	gembira	RJoh 518a	verses	root
+1930	1900s	gembira	TZA 1.1449c	verses	root
+1930	1900s	gembira	TZA 2.140d	verses	root
+1930	1900s	gembira	TZA 2.701d	verses	root
+1930	1900s	gembira	TZA 2.1089d	verses	root
+1380	1300s	senang	AHmz 418:14	prose	root
+1600	1600s	senang	Boma 173:7	prose	root
+1620	1600s	senang	Kutai 191:4	prose	root
+1650	1600s	senang	Hitu 106,XXVI	prose	root
+1650	1600s	senang	Hitu 106,XXVI	prose	root
+1700	1700s	senang	Tuah 498:37	prose	root
+1700	1700s	senang	Tuah 512:2	prose	root
+1730	1700s	senang	Pat 77:14	prose	root
+1730	1700s	senang	Pat 83:5	prose	root
+1760	1700s	senang	BSK 261/23	prose	root
+1780	1700s	senang	Misa 112:6	prose	root
+1780	1700s	senang	NMuda 103:15	prose	root
+1780	1700s	senang	NMuda 108:20	prose	root
+1780	1700s	senang	NMuda 128:1	prose	root
+1810	1800s	senang	PNB 148:26	prose	root
+1810	1800s	senang	PNB 150:18	prose	root
+1820	1800s	senang	SJal 8	prose	root
+1820	1800s	senang	SJal 24	prose	root
+1830	1800s	senang	Abd.PK 39	prose	root
+1830	1800s	senang	Abd.PK 99	prose	root
+1830	1800s	senang	Abd.PK 99	prose	root
+1830	1800s	senang	Abd.PK 109	prose	root
+1830	1800s	senang	Abd.PK 125	prose	root
+1830	1800s	senang	Abd.PK 125	prose	root
+1830	1800s	senang	TBarus 190:32	prose	root
+1830	1800s	senang	TBarus 191:4	prose	root
+1830	1800s	senang	TBarus 192:16	prose	root
+1830	1800s	senang	TBarus 193:18	prose	root
+1830	1800s	senang	TBarus 196:33	prose	root
+1830	1800s	senang	TBarus 197:23	prose	root
+1830	1800s	senang	TBarus 200:9	prose	root
+1830	1800s	senang	TBarus 214:30	prose	root
+1830	1800s	senang	TBarus 219:10	prose	root
+1840	1800s	senang	Abd.C KA 65	prose	root
+1840	1800s	senang	Abd.C KA 68	prose	root
+1840	1800s	senang	Abd.C KA 70	prose	root
+1840	1800s	senang	Abd.C KA 70	prose	root
+1840	1800s	senang	Abd.C KA 71	prose	root
+1840	1800s	senang	BSK 364/101	prose	root
+1840	1800s	senang	Abd.H 16:15	prose	root
+1840	1800s	senang	Abd.H 35:13	prose	root
+1840	1800s	senang	Abd.H 36:14	prose	root
+1840	1800s	senang	Abd.H 40:15	prose	root
+1840	1800s	senang	Abd.H 41:8	prose	root
+1840	1800s	senang	Abd.H 46:5	prose	root
+1840	1800s	senang	Abd.H 136:2	prose	root
+1840	1800s	senang	Abd.H 139:1	prose	root
+1840	1800s	senang	Abd.H 139:4	prose	root
+1840	1800s	senang	Abd.H 157:10	prose	root
+1840	1800s	senang	Abd.H 171:12	prose	root
+1840	1800s	senang	Abd.H 171:12	prose	root
+1840	1800s	senang	Abd.H 173:5	prose	root
+1840	1800s	senang	Abd.H 173:10	prose	root
+1840	1800s	senang	Abd.H 178:2	prose	root
+1840	1800s	senang	Abd.H 183:12	prose	root
+1840	1800s	senang	Abd.H 223:14	prose	root
+1840	1800s	senang	Abd.H 237:8	prose	root
+1840	1800s	senang	Abd.H 237:9	prose	root
+1840	1800s	senang	Abd.H 276:4	prose	root
+1840	1800s	senang	Abd.H 276:12	prose	root
+1840	1800s	senang	Abd.H 277:1	prose	root
+1840	1800s	senang	Abd.H 286:6	prose	root
+1840	1800s	senang	Abd.H 312:11	prose	root
+1840	1800s	senang	Abd.H 313:4	prose	root
+1840	1800s	senang	Abd.H 313:15	prose	root
+1840	1800s	senang	Abd.H 314:12	prose	root
+1840	1800s	senang	Abd.H 315:7	prose	root
+1840	1800s	senang	Abd.H 315:15	prose	root
+1840	1800s	senang	Abd.H 335:3	prose	root
+1840	1800s	senang	Abd.H 343:1	prose	root
+1840	1800s	senang	Abd.H 343:2	prose	root
+1840	1800s	senang	Abd.H 343:13	prose	root
+1840	1800s	senang	Abd.H 370:10	prose	root
+1840	1800s	senang	Abd.H 370:13	prose	root
+1840	1800s	senang	Abd.H 404:12	prose	root
+1840	1800s	senang	Abd.H 406:10	prose	root
+1840	1800s	senang	Abd.H 423:15	prose	root
+1840	1800s	senang	Abd.H 423:19	prose	root
+1840	1800s	senang	Abd.H 423:21	prose	root
+1850	1800s	senang	Abd.PM 13	prose	root
+1850	1800s	senang	Siak 431	prose	root
+1860	1800s	senang	Bangka 67:2	prose	root
+1860	1800s	senang	Bangka 119:28	prose	root
+1860	1800s	senang	Dmsy.H 791	prose	root
+1860	1800s	senang	M&B 52:11	prose	root
+1860	1800s	senang	M&B 77:6	prose	root
+1860	1800s	senang	M&B 130:25	prose	root
+1860	1800s	senang	M&B 131:5	prose	root
+1860	1800s	senang	M&B 152:6	prose	root
+1860	1800s	senang	M&B 157:7	prose	root
+1860	1800s	senang	M&B 173:2	prose	root
+1860	1800s	senang	M&B 217:12	prose	root
+1860	1800s	senang	M&B 229:34	prose	root
+1860	1800s	senang	M&B 277:6	prose	root
+1860	1800s	senang	Barus 143:19	prose	root
+1860	1800s	senang	Barus 158:33	prose	root
+1860	1800s	senang	Barus 160:22	prose	root
+1860	1800s	senang	TN 64:7	prose	root
+1860	1800s	senang	TN 67:22	prose	root
+1860	1800s	senang	TN 83:8	prose	root
+1860	1800s	senang	TN 134:18	prose	root
+1860	1800s	senang	TN 143:9	prose	root
+1860	1800s	senang	TN 186:19	prose	root
+1860	1800s	senang	TN 219:18	prose	root
+1860	1800s	senang	TN 251:1	prose	root
+1860	1800s	senang	TN 422:15	prose	root
+1870	1800s	senang	KSPL Kel 18:18	prose	root
+1870	1800s	senang	KSPL Bil 23:23	prose	root
+1870	1800s	senang	KSPL Bil 35:11	prose	root
+1870	1800s	senang	KSPL Ula 28:65	prose	root
+1870	1800s	senang	KSPL 1Sa 16:23	prose	root
+1870	1800s	senang	KSPL 2Sa 7:27	prose	root
+1870	1800s	senang	KSPL 1Ra 8:66	prose	root
+1870	1800s	senang	KSPL 2Ta 7:10	prose	root
+1870	1800s	senang	KSPL Ayu 3:26	prose	root
+1870	1800s	senang	KSPL Ayu 11:18	prose	root
+1870	1800s	senang	KSPL Ayu 14:6	prose	root
+1870	1800s	senang	KSPL Maz 22:3	prose	root
+1870	1800s	senang	KSPL Maz 38:4	prose	root
+1870	1800s	senang	KSPL Ams 1:33	prose	root
+1870	1800s	senang	KSPL Ams 3:24	prose	root
+1870	1800s	senang	KSPL Ams 26:22	prose	root
+1870	1800s	senang	KSPL Yes 14:7	prose	root
+1870	1800s	senang	KSPL Yeh 22:14	prose	root
+1870	1800s	senang	KSPL Dan 1:4	prose	root
+1870	1800s	senang	KSPL Dan 4:4	prose	root
+1870	1800s	senang	KSPL Mik 2:8	prose	root
+1880	1800s	senang	Pah 19:19	prose	root
+1880	1800s	senang	Pah 24:17	prose	root
+1880	1800s	senang	Pah 27:2	prose	root
+1880	1800s	senang	Pah 55:7	prose	root
+1880	1800s	senang	Mpt 3	prose	root
+1880	1800s	senang	Mpt 5	prose	root
+1880	1800s	senang	Mpt 6	prose	root
+1880	1800s	senang	Mpt 37	prose	root
+1880	1800s	senang	Mpt 68	prose	root
+1880	1800s	senang	Mpt 68	prose	root
+1880	1800s	senang	Mpt 82	prose	root
+1880	1800s	senang	Mpt 142	prose	root
+1880	1800s	senang	Mpt 145	prose	root
+1880	1800s	senang	Mpt 146	prose	root
+1880	1800s	senang	Mpt 196	prose	root
+1880	1800s	senang	Mpt 201	prose	root
+1880	1800s	senang	Mpt 209	prose	root
+1880	1800s	senang	Mpt 209	prose	root
+1880	1800s	senang	Mpt 209	prose	root
+1880	1800s	senang	Mpt 211	prose	root
+1880	1800s	senang	Mpt 225	prose	root
+1880	1800s	senang	Mpt 240	prose	root
+1890	1800s	senang	Puras 29:10	prose	root
+1890	1800s	senang	Puras 120:8	prose	root
+1890	1800s	senang	Puras 120:8	prose	root
+1900	1900s	senang	CJen.B 53:20	prose	root
+1910	1900s	senang	SKel 9:1	prose	root
+1910	1900s	senang	SKel 24:29	prose	root
+1910	1900s	senang	SKel 26:8	prose	root
+1910	1900s	senang	SKel 27:24	prose	root
+1910	1900s	senang	SKel 67:16	prose	root
+1910	1900s	senang	SKel 89:15	prose	root
+1910	1900s	senang	SKel 92:9	prose	root
+1910	1900s	senang	SKel 93:2	prose	root
+1910	1900s	senang	SKel 94:35	prose	root
+1910	1900s	senang	SKel 94:36	prose	root
+1910	1900s	senang	J&P 60:14	prose	root
+1930	1900s	senang	KSPB Mat 11:30	prose	root
+1930	1900s	senang	KSPB Kis 3:20	prose	root
+1930	1900s	senang	KSPB 1Ko 7:40	prose	root
+1930	1900s	senang	KSPB 2Ko 2:13	prose	root
+1930	1900s	senang	KSPB 2Ko 8:13	prose	root
+1930	1900s	senang	KSPB Fil 2:19	prose	root
+1930	1900s	senang	KSPB 1Ti 6:6 .	prose	root
+1930	1900s	senang	KSPB 2Ti 4:2	prose	root
+1930	1900s	senang	KSPB 2Ti 4:2	prose	root
+1930	1900s	senang	KSPB Yak 5:13	prose	root
+1950	1900s	senang	Sikka 12	prose	root
+1950	1900s	senang	Sikka 29	prose	root
+1950	1900s	senang	Sikka 32	prose	root
+1950	1900s	senang	Sikka 57	prose	root
+1950	1900s	senang	Sikka 87	prose	root
+1950	1900s	senang	Sikka 97	prose	root
+1950	1900s	senang	Sikka 106	prose	root
+1950	1900s	senang	Sikka 110	prose	root
+1950	1900s	senang	Sikka 137	prose	root
+1950	1900s	senang	Sikka 140	prose	root
+1950	1900s	senang	Sikka 152	prose	root
+1950	1900s	senang	Sikka 158	prose	root
+1950	1900s	senang	Sikka 160	prose	root
+1950	1900s	senang	Sikka 167	prose	root
+1950	1900s	senang	Sikka 168	prose	root
+1950	1900s	senang	Sikka 183	prose	root
+1950	1900s	senang	Sikka 184	prose	root
+1950	1900s	senang	Sikka 212	prose	root
+1950	1900s	senang	Sikka 255	prose	root
+1950	1900s	senang	Sikka 256	prose	root
+1590	1500s	senang	HF 5:13b	tracts_&_manuals	root
+1590	1500s	senang	HF 47:23d	tracts_&_manuals	root
+1590	1500s	senang	HF 47:86b	tracts_&_manuals	root
+1590	1500s	senang	HF 47:90b	tracts_&_manuals	root
+1910	1900s	senang	Guna 22rm:3	tracts_&_manuals	root
+1910	1900s	senang	Guna 27:2	tracts_&_manuals	root
+1730	1700s	senang	Wrkh 8:2	letters_&_documents	root
+1780	1700s	senang	Gold 18:4	letters_&_documents	root
+1790	1700s	senang	WSumB 2:22 .	letters_&_documents	root
+1790	1700s	senang	WSumB 5:21	letters_&_documents	root
+1790	1700s	senang	WBima L 4:7	letters_&_documents	root
+1790	1700s	senang	WBima L 4:11	letters_&_documents	root
+1790	1700s	senang	SRN 3:4	letters_&_documents	root
+1800	1800s	senang	Banten 19:v21	letters_&_documents	root
+1800	1800s	senang	PBanj 162:25	letters_&_documents	root
+1800	1800s	senang	Banten 27:11	letters_&_documents	root
+1810	1800s	senang	Banten 28:2r4	letters_&_documents	root
+1810	1800s	senang	Wrkh 38:3	letters_&_documents	root
+1810	1800s	senang	Wrkh 44:2	letters_&_documents	root
+1810	1800s	senang	Wrkh 54:2	letters_&_documents	root
+1810	1800s	senang	Wrkh 55:2	letters_&_documents	root
+1810	1800s	senang	Wrkh 64:2	letters_&_documents	root
+1810	1800s	senang	Wrkh 64:3	letters_&_documents	root
+1810	1800s	senang	PBanj 199:17	letters_&_documents	root
+1810	1800s	senang	Farq 18:10	letters_&_documents	root
+1810	1800s	senang	Farq 22:19	letters_&_documents	root
+1810	1800s	senang	Farq 33:15	letters_&_documents	root
+1810	1800s	senang	Farq 35:37	letters_&_documents	root
+1820	1800s	senang	SRN 29:5	letters_&_documents	root
+1820	1800s	senang	SITS 308:3	letters_&_documents	root
+1820	1800s	senang	SITS 332:18	letters_&_documents	root
+1820	1800s	senang	Wrkh 80:7	letters_&_documents	root
+1820	1800s	senang	Wrkh 81:2	letters_&_documents	root
+1820	1800s	senang	PBanj 230:22	letters_&_documents	root
+1820	1800s	senang	SRN 32:3	letters_&_documents	root
+1820	1800s	senang	SRN 32:3	letters_&_documents	root
+1830	1800s	senang	Kel 15:19	letters_&_documents	root
+1830	1800s	senang	Kel 25:9	letters_&_documents	root
+1840	1800s	senang	SRN 38:3	letters_&_documents	root
+1840	1800s	senang	SRN 38:6	letters_&_documents	root
+1860	1800s	senang	VdW RAH 27:3	letters_&_documents	root
+1860	1800s	senang	VdW RAH 27:3	letters_&_documents	root
+1860	1800s	senang	VdW MHS 1:2	letters_&_documents	root
+1860	1800s	senang	VdW RAH 31:5	letters_&_documents	root
+1860	1800s	senang	VdW RAH 34:5	letters_&_documents	root
+1860	1800s	senang	VdW RAH 47:4	letters_&_documents	root
+1860	1800s	senang	VdW HI 39:5	letters_&_documents	root
+1860	1800s	senang	VdW HI 40:4	letters_&_documents	root
+1860	1800s	senang	VdW RAH 51:2	letters_&_documents	root
+1860	1800s	senang	VdW RAH 62:5	letters_&_documents	root
+1860	1800s	senang	VdW RAH 66:6	letters_&_documents	root
+1870	1800s	senang	VdW RAH 77:1	letters_&_documents	root
+1870	1800s	senang	VdW RAH 80:3	letters_&_documents	root
+1870	1800s	senang	VdW RAH 83:4	letters_&_documents	root
+1870	1800s	senang	Wrkh 97:2	letters_&_documents	root
+1870	1800s	senang	VdW RAH 90:3	letters_&_documents	root
+1870	1800s	senang	VdW HI 80:2	letters_&_documents	root
+1870	1800s	senang	VdW RAH 99:4	letters_&_documents	root
+1870	1800s	senang	VdW RAH 110:3	letters_&_documents	root
+1870	1800s	senang	VdW RAH 118:2	letters_&_documents	root
+1900	1900s	senang	Imam 342:11	newspapers	root
+1900	1900s	senang	Imam 368:8	newspapers	root
+1900	1900s	senang	Imam 459:17	newspapers	root
+1900	1900s	senang	Imam 476:30	newspapers	root
+1920	1900s	senang	PK 7:1d	newspapers	root
+1920	1900s	senang	PK 10:40b	newspapers	root
+1930	1900s	senang	PK 28:2b	newspapers	root
+1930	1900s	senang	S 22Feb30:7	newspapers	root
+1930	1900s	senang	MG Mar30:5	newspapers	root
+1930	1900s	senang	MG Apr30:73	newspapers	root
+1930	1900s	senang	MG May30:87	newspapers	root
+1930	1900s	senang	MG May30:87	newspapers	root
+1930	1900s	senang	MG May30:87	newspapers	root
+1930	1900s	senang	MG May30:87	newspapers	root
+1930	1900s	senang	S 24May30:6	newspapers	root
+1930	1900s	senang	S 21Jun30:1	newspapers	root
+1930	1900s	senang	S 21Jun30:1	newspapers	root
+1930	1900s	senang	S 21Jun30:1	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Jul30:130	newspapers	root
+1930	1900s	senang	MG Sep30:168	newspapers	root
+1930	1900s	senang	MG Jan31:18	newspapers	root
+1930	1900s	senang	MG Jan31:13	newspapers	root
+1930	1900s	senang	MG Jan31:13	newspapers	root
+1930	1900s	senang	S 24Jan31:1	newspapers	root
+1930	1900s	senang	S 24Jan31:6	newspapers	root
+1930	1900s	senang	S 20Feb31:8	newspapers	root
+1930	1900s	senang	S 28Feb31:1	newspapers	root
+1930	1900s	senang	S 28Feb31:1	newspapers	root
+1930	1900s	senang	S 28Feb31:6	newspapers	root
+1930	1900s	senang	S 7Mar31:8	newspapers	root
+1930	1900s	senang	S 25Apr31:1	newspapers	root
+1930	1900s	senang	S 9May31:1	newspapers	root
+1930	1900s	senang	S 23May31:1	newspapers	root
+1930	1900s	senang	S 23May31:1	newspapers	root
+1930	1900s	senang	S 30May31:6	newspapers	root
+1930	1900s	senang	MG Jun31:103	newspapers	root
+1930	1900s	senang	S 27Jun31:1	newspapers	root
+1930	1900s	senang	S 8Aug31:1	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	S Oct31:?	newspapers	root
+1930	1900s	senang	WM 3Dec31:4	newspapers	root
+1930	1900s	senang	WM 11Dec31:8	newspapers	root
+1930	1900s	senang	MG Jan32:20	newspapers	root
+1930	1900s	senang	MG Jan32:20	newspapers	root
+1930	1900s	senang	MG Jan32:226	newspapers	root
+1930	1900s	senang	M 28Jan32:8	newspapers	root
+1930	1900s	senang	MG Feb32:40	newspapers	root
+1930	1900s	senang	S 9Mar32:5	newspapers	root
+1930	1900s	senang	S 9Mar32:5	newspapers	root
+1930	1900s	senang	S 9Mar32:5	newspapers	root
+1930	1900s	senang	S 9Mar32:5	newspapers	root
+1930	1900s	senang	M 17Mar32:6	newspapers	root
+1930	1900s	senang	VN.PD 19Mar32	newspapers	root
+1930	1900s	senang	S 23Mar32:7	newspapers	root
+1930	1900s	senang	S 30Mar32:6	newspapers	root
+1930	1900s	senang	S 30Mar32:6	newspapers	root
+1930	1900s	senang	S 30Mar32:6	newspapers	root
+1930	1900s	senang	MG Apr32:40	newspapers	root
+1930	1900s	senang	M 7Apr32:6	newspapers	root
+1930	1900s	senang	S 13Apr32:7	newspapers	root
+1930	1900s	senang	S 4May32:4	newspapers	root
+1930	1900s	senang	S 11May32:6	newspapers	root
+1930	1900s	senang	S 21May32:1	newspapers	root
+1930	1900s	senang	S 21May32:1	newspapers	root
+1930	1900s	senang	MG Jun32:103	newspapers	root
+1930	1900s	senang	M 20Jun32:6	newspapers	root
+1930	1900s	senang	M 20Jun32:6	newspapers	root
+1930	1900s	senang	M 20Jun32:6	newspapers	root
+1930	1900s	senang	MG Aug32:184	newspapers	root
+1930	1900s	senang	S 9Aug32:1	newspapers	root
+1930	1900s	senang	M 15Aug32:6	newspapers	root
+1930	1900s	senang	S 17Aug32:6	newspapers	root
+1930	1900s	senang	S 31Aug32:6	newspapers	root
+1930	1900s	senang	MG Sep32:223	newspapers	root
+1930	1900s	senang	M 1Sep32:8	newspapers	root
+1930	1900s	senang	M 7Sep32:5	newspapers	root
+1930	1900s	senang	M 8Sep32:5	newspapers	root
+1930	1900s	senang	M 8Sep32:8	newspapers	root
+1930	1900s	senang	M 8Sep32:8	newspapers	root
+1930	1900s	senang	M 19Sep32:7	newspapers	root
+1930	1900s	senang	S 21Sep32:1	newspapers	root
+1930	1900s	senang	S 28Sep32:6	newspapers	root
+1930	1900s	senang	S 5Oct32:4	newspapers	root
+1930	1900s	senang	M 24Oct32:5	newspapers	root
+1930	1900s	senang	S 30Nov32:6	newspapers	root
+1930	1900s	senang	S 30Nov32:6	newspapers	root
+1930	1900s	senang	MG Dec32:343	newspapers	root
+1930	1900s	senang	MG Dec32:372	newspapers	root
+1930	1900s	senang	M 8Dec32:5	newspapers	root
+1930	1900s	senang	M 12Dec32:3	newspapers	root
+1930	1900s	senang	M 15Dec32:7	newspapers	root
+1930	1900s	senang	M 22Dec32:4	newspapers	root
+1930	1900s	senang	M 26Dec32:7	newspapers	root
+1930	1900s	senang	M 26Dec32:7	newspapers	root
+1930	1900s	senang	S 31Dec32:6	newspapers	root
+1930	1900s	senang	MG Jan33:3	newspapers	root
+1930	1900s	senang	S 31Jan33:6	newspapers	root
+1930	1900s	senang	M 6Feb33:6	newspapers	root
+1930	1900s	senang	S 8Feb33:4	newspapers	root
+1930	1900s	senang	S 25Mar33:3	newspapers	root
+1930	1900s	senang	S 25Mar33:3	newspapers	root
+1930	1900s	senang	S 29Mar33:8	newspapers	root
+1930	1900s	senang	S 29Mar33:8	newspapers	root
+1930	1900s	senang	M 21Sep33:12	newspapers	root
+1930	1900s	senang	M 25Sep33:8	newspapers	root
+1930	1900s	senang	MG Feb34:61	newspapers	root
+1930	1900s	senang	MG Mar34:105	newspapers	root
+1930	1900s	senang	MG Mar34:105	newspapers	root
+1930	1900s	senang	MG Mar34:108	newspapers	root
+1930	1900s	senang	MG Mar34:108	newspapers	root
+1930	1900s	senang	MG Mar34:108	newspapers	root
+1930	1900s	senang	WM 1Mar34:3	newspapers	root
+1930	1900s	senang	WM 9Mar34:8	newspapers	root
+1930	1900s	senang	MG Apr34:129	newspapers	root
+1930	1900s	senang	WM 26Apr34:8	newspapers	root
+1930	1900s	senang	MG May34:132	newspapers	root
+1930	1900s	senang	MG May34:180	newspapers	root
+1930	1900s	senang	MG May34:180	newspapers	root
+1930	1900s	senang	WM 23May34:10	newspapers	root
+1930	1900s	senang	WM 29May34:8	newspapers	root
+1930	1900s	senang	WM 30May34:7	newspapers	root
+1930	1900s	senang	MG Jun34:211	newspapers	root
+1930	1900s	senang	MG Jun34:211	newspapers	root
+1930	1900s	senang	MG Jun34:211	newspapers	root
+1930	1900s	senang	MG Jun34:211	newspapers	root
+1930	1900s	senang	MG Jun34:211	newspapers	root
+1930	1900s	senang	MG Jul34:243	newspapers	root
+1930	1900s	senang	MG Aug34:201	newspapers	root
+1930	1900s	senang	MG Sep34:357	newspapers	root
+1930	1900s	senang	MG Sep34:357	newspapers	root
+1930	1900s	senang	MG Dec34:446	newspapers	root
+1930	1900s	senang	MG Dec34:446	newspapers	root
+1930	1900s	senang	MG Dec34:443	newspapers	root
+1930	1900s	senang	MG Dec34:443	newspapers	root
+1930	1900s	senang	S 5Dec34:7	newspapers	root
+1930	1900s	senang	M 13Dec34:5	newspapers	root
+1930	1900s	senang	M 4Jan35:18	newspapers	root
+1930	1900s	senang	M 8Jan35:2	newspapers	root
+1930	1900s	senang	M 21Jan35:12	newspapers	root
+1930	1900s	senang	WM 1Feb35:9	newspapers	root
+1930	1900s	senang	S 2Feb35:6	newspapers	root
+1930	1900s	senang	M 14Feb35:7	newspapers	root
+1930	1900s	senang	S 4May35:7	newspapers	root
+1930	1900s	senang	S 4May35:7	newspapers	root
+1930	1900s	senang	M 24Jun35:7	newspapers	root
+1930	1900s	senang	M 27Jun35:12	newspapers	root
+1930	1900s	senang	M 27Jun35:12	newspapers	root
+1930	1900s	senang	MG Jul35:263	newspapers	root
+1930	1900s	senang	MG Aug35:282	newspapers	root
+1930	1900s	senang	M 12Aug35:8	newspapers	root
+1930	1900s	senang	S 31Aug35:2	newspapers	root
+1930	1900s	senang	S 31Aug35:2	newspapers	root
+1930	1900s	senang	S 31Aug35:2	newspapers	root
+1930	1900s	senang	S 31Aug35:2	newspapers	root
+1930	1900s	senang	MG Sep35:357	newspapers	root
+1930	1900s	senang	M 2Sep35:10	newspapers	root
+1930	1900s	senang	M 2Sep35:5	newspapers	root
+1930	1900s	senang	S 25Sep35:6	newspapers	root
+1930	1900s	senang	M 23Nov35:12	newspapers	root
+1930	1900s	senang	M 23Nov35:3	newspapers	root
+1930	1900s	senang	M 23Nov35:3	newspapers	root
+1930	1900s	senang	M 1Dec35:8	newspapers	root
+1930	1900s	senang	M 16Dec35:6	newspapers	root
+1930	1900s	senang	PK 49:11a	newspapers	root
+1930	1900s	senang	PK 56:12b	newspapers	root
+1930	1900s	senang	S 1Jan36:2	newspapers	root
+1930	1900s	senang	S 4Jan36:5	newspapers	root
+1930	1900s	senang	S 11Jan36:5	newspapers	root
+1930	1900s	senang	S 15Jan36:2	newspapers	root
+1930	1900s	senang	S 15Jan36:2	newspapers	root
+1930	1900s	senang	S 22Jan36:4	newspapers	root
+1930	1900s	senang	S 8Feb36:2	newspapers	root
+1930	1900s	senang	S 1Apr36:2	newspapers	root
+1930	1900s	senang	S 8Apr36:2	newspapers	root
+1930	1900s	senang	S 15Apr36:3	newspapers	root
+1930	1900s	senang	S 15Apr36:3	newspapers	root
+1930	1900s	senang	S 15Apr36:3	newspapers	root
+1930	1900s	senang	S 6Jun36:2	newspapers	root
+1930	1900s	senang	S 6Jun36:2	newspapers	root
+1930	1900s	senang	S 6Jun36:2	newspapers	root
+1930	1900s	senang	S 17Jun36:9	newspapers	root
+1930	1900s	senang	S 5Sep36:3	newspapers	root
+1930	1900s	senang	S 26Dec36:2	newspapers	root
+1930	1900s	senang	S 13Jan37:9	newspapers	root
+1930	1900s	senang	S 3Mar37:2	newspapers	root
+1930	1900s	senang	S 19May37:2	newspapers	root
+1930	1900s	senang	S 22Dec37:2	newspapers	root
+1930	1900s	senang	VN.WK 18Feb38	newspapers	root
+1930	1900s	senang	S 5Oct38:4	newspapers	root
+1930	1900s	senang	S 15Oct38:7	newspapers	root
+1930	1900s	senang	S 19Oct38:2	newspapers	root
+1930	1900s	senang	S 22Oct38:3	newspapers	root
+1930	1900s	senang	S 22Oct38:4	newspapers	root
+1930	1900s	senang	S 29Oct38:7	newspapers	root
+1930	1900s	senang	S 29Oct38:2	newspapers	root
+1930	1900s	senang	PK 106:2c	newspapers	root
+1930	1900s	senang	PK 117:2d	newspapers	root
+1930	1900s	senang	PK 117:6c	newspapers	root
+1930	1900s	senang	PK 117:27b	newspapers	root
+1930	1900s	senang	PK 117:37d	newspapers	root
+1930	1900s	senang	PK 124:2b	newspapers	root
+1930	1900s	senang	PK 135:8d	newspapers	root
+1930	1900s	senang	PK 137:14d	newspapers	root
+1930	1900s	senang	PK 137:15c	newspapers	root
+1930	1900s	senang	PK 140:7d	newspapers	root
+1930	1900s	senang	PK 140:13a	newspapers	root
+1930	1900s	senang	PK 142:3d	newspapers	root
+1930	1900s	senang	PK 144:4d	newspapers	root
+1940	1900s	senang	PK 146:1d	newspapers	root
+1940	1900s	senang	PK 192:2a	newspapers	root
+1940	1900s	senang	PK 194:16c	newspapers	root
+1940	1900s	senang	PK 198:18c	newspapers	root
+1940	1900s	senang	PK 205:6b	newspapers	root
+1940	1900s	senang	PK 205:9d	newspapers	root
+1940	1900s	senang	PK 231:14a	newspapers	root
+1940	1900s	senang	PK 231:19c	newspapers	root
+1940	1900s	senang	PK 234:7b	newspapers	root
+1940	1900s	senang	PK 236:1d	newspapers	root
+1940	1900s	senang	PK 258:1d	newspapers	root
+1940	1900s	senang	PK 258:7d	newspapers	root
+1940	1900s	senang	PK 265:13d	newspapers	root
+1940	1900s	senang	S 13Jan40:2	newspapers	root
+1940	1900s	senang	S 20Jan40:5	newspapers	root
+1940	1900s	senang	S 20Jan40:5	newspapers	root
+1940	1900s	senang	S 17Feb40:6	newspapers	root
+1940	1900s	senang	PK 298:5d	newspapers	root
+1940	1900s	senang	PK 309:6c	newspapers	root
+1940	1900s	senang	PK 316:1d	newspapers	root
+1750	1700s	senang	Bid 45:5d	verses	root
+1750	1700s	senang	Bid 64:4d	verses	root
+1750	1700s	senang	KT 70:54b	verses	root
+1750	1700s	senang	KT 141:148d	verses	root
+1750	1700s	senang	KT 208:5d	verses	root
+1750	1700s	senang	Hemop 1685	verses	root
+1810	1800s	senang	Fansur 1:12b	verses	root
+1810	1800s	senang	Maul 919a	verses	root
+1820	1800s	senang	Kosta 213a	verses	root
+1820	1800s	senang	T&K 7v,6c	verses	root
+1820	1800s	senang	Zub 109:7b	verses	root
+1820	1800s	senang	Zub 132:1c	verses	root
+1820	1800s	senang	Zub 132:2d	verses	root
+1820	1800s	senang	Zub 205:6a	verses	root
+1820	1800s	senang	Zub 280:4d	verses	root
+1820	1800s	senang	Zub 368:2a	verses	root
+1820	1800s	senang	Zub 368:6d	verses	root
+1820	1800s	senang	Zub 415:2c	verses	root
+1820	1800s	senang	Zub 502:8d	verses	root
+1820	1800s	senang	Zub 556:7c	verses	root
+1820	1800s	senang	KTS 40a	verses	root
+1820	1800s	senang	KTS 60b	verses	root
+1830	1800s	senang	KBima 227b	verses	root
+1830	1800s	senang	DBB 4c	verses	root
+1830	1800s	senang	Perb 51*h	verses	root
+1830	1800s	senang	Perb 51*o	verses	root
+1830	1800s	senang	Perb 51*p	verses	root
+1830	1800s	senang	Perb 51*w	verses	root
+1830	1800s	senang	Perb 57b	verses	root
+1830	1800s	senang	Perb 62a	verses	root
+1830	1800s	senang	Perb 68c	verses	root
+1840	1800s	senang	Abd.S ST 121d	verses	root
+1840	1800s	senang	EPut 160a	verses	root
+1840	1800s	senang	EPut 210d	verses	root
+1840	1800s	senang	Sunur 19c	verses	root
+1850	1800s	senang	K&M 7v 3a	verses	root
+1850	1800s	senang	K&M 30r 2a	verses	root
+1850	1800s	senang	K&M 31r 5b	verses	root
+1850	1800s	senang	K&M 34r 8d	verses	root
+1860	1800s	senang	Mwr 3v 4d	verses	root
+1860	1800s	senang	NurP 77:6c	verses	root
+1860	1800s	senang	Nuri 8v 1b	verses	root
+1860	1800s	senang	Dmsy.S 176d	verses	root
+1860	1800s	senang	Dmsy.S 314b	verses	root
+1860	1800s	senang	Dmsy.S 551d	verses	root
+1860	1800s	senang	Dmsy.S 632d	verses	root
+1860	1800s	senang	Dmsy.S 1377d	verses	root
+1860	1800s	senang	Dmsy.S 1500c	verses	root
+1860	1800s	senang	Dmsy.S 1895c	verses	root
+1860	1800s	senang	Kmt 62:2c	verses	root
+1860	1800s	senang	Kmt 63:2d	verses	root
+1860	1800s	senang	Pung 4v 3d	verses	root
+1860	1800s	senang	Awai 262c	verses	root
+1860	1800s	senang	Awai 271b	verses	root
+1870	1800s	senang	Buah 6v 4b	verses	root
+1870	1800s	senang	Buah 11r 8d	verses	root
+1870	1800s	senang	Buah 16v 7d	verses	root
+1870	1800s	senang	Buah 23r 7c	verses	root
+1870	1800s	senang	Buah 25v 3a	verses	root
+1870	1800s	senang	Buah 32v 3a	verses	root
+1870	1800s	senang	Buah 34v 1a	verses	root
+1870	1800s	senang	Nymk 15r 6a	verses	root
+1870	1800s	senang	Nymk 22r 6b	verses	root
+1870	1800s	senang	MSiamB 2:5d	verses	root
+1870	1800s	senang	MSiamB 10:5d	verses	root
+1870	1800s	senang	MSiamB 35:4d	verses	root
+1870	1800s	senang	Wangk 43:8a	verses	root
+1870	1800s	senang	WHaji 13a	verses	root
+1870	1800s	senang	WHaji 79b	verses	root
+1880	1800s	senang	LKrm 107c	verses	root
+1880	1800s	senang	LKrm 177a	verses	root
+1890	1800s	senang	SSiti 45:9b	verses	root
+1890	1800s	senang	SSiti 51:4b	verses	root
+1890	1800s	senang	SSiti 84:7c	verses	root
+1890	1800s	senang	SSiti 142:6d	verses	root
+1890	1800s	senang	SSiti 177:3d	verses	root
+1890	1800s	senang	SSiti 190:1b	verses	root
+1890	1800s	senang	SSiti 207:4b	verses	root
+1890	1800s	senang	SSiti 237:1d	verses	root
+1890	1800s	senang	SAB 7:1a	verses	root
+1890	1800s	senang	SAB 10:1d	verses	root
+1890	1800s	senang	SAB 17:2d	verses	root
+1890	1800s	senang	SAB 48:2d	verses	root
+1890	1800s	senang	SAB 48:3c	verses	root
+1890	1800s	senang	SAB 49:3d	verses	root
+1890	1800s	senang	SAB 49:4b	verses	root
+1890	1800s	senang	SAB 49:6d	verses	root
+1890	1800s	senang	SAB 54:4b	verses	root
+1890	1800s	senang	SAB 54:7c	verses	root
+1890	1800s	senang	SAB 55:2b	verses	root
+1890	1800s	senang	SAB 60:5a	verses	root
+1890	1800s	senang	SAB 61:6a	verses	root
+1890	1800s	senang	SAB 96:7b	verses	root
+1890	1800s	senang	SAB 97:2b	verses	root
+1890	1800s	senang	SAB 99:3c	verses	root
+1890	1800s	senang	SAB 100:6c	verses	root
+1890	1800s	senang	SAB 100:6d	verses	root
+1890	1800s	senang	SAB 102:4d	verses	root
+1890	1800s	senang	SAB 102:5c	verses	root
+1890	1800s	senang	SAB 103:2b	verses	root
+1890	1800s	senang	SAB 103:4b	verses	root
+1890	1800s	senang	SAB 104:2b	verses	root
+1890	1800s	senang	SAB 104:3a	verses	root
+1890	1800s	senang	SAB 104:3d	verses	root
+1890	1800s	senang	SAB 104:4b	verses	root
+1890	1800s	senang	SAB 119:2d	verses	root
+1890	1800s	senang	SAB 132:4c	verses	root
+1890	1800s	senang	SAB 156:6c	verses	root
+1890	1800s	senang	SAB 169:4c	verses	root
+1890	1800s	senang	SAB 169:5d	verses	root
+1890	1800s	senang	SAB 175:7b	verses	root
+1890	1800s	senang	SAB 183:6d	verses	root
+1890	1800s	senang	SAB 184:1b	verses	root
+1890	1800s	senang	SAB 184:2c	verses	root
+1890	1800s	senang	SAB 185:1c	verses	root
+1890	1800s	senang	SAB 185:1d	verses	root
+1890	1800s	senang	SAB 185:6c	verses	root
+1890	1800s	senang	SAB 188:3d	verses	root
+1890	1800s	senang	SAB 192:2d	verses	root
+1890	1800s	senang	SAB 196:3b	verses	root
+1890	1800s	senang	SAB 196:6d	verses	root
+1890	1800s	senang	RJoh 6c	verses	root
+1890	1800s	senang	RJoh 30d	verses	root
+1890	1800s	senang	RJoh 245c	verses	root
+1890	1800s	senang	RJoh 650d	verses	root
+1890	1800s	senang	RJoh 881a	verses	root
+1890	1800s	senang	RJoh 985b	verses	root
+1890	1800s	senang	RJoh 1022b	verses	root
+1910	1900s	senang	Das 3:2d	verses	root
+1910	1900s	senang	Das 18:8d	verses	root
+1910	1900s	senang	Das 34:2a	verses	root
+1910	1900s	senang	Raksi 17b	verses	root
+1910	1900s	senang	Raksi 73d	verses	root
+1910	1900s	senang	Raksi 129d	verses	root
+1910	1900s	senang	Raksi 138b	verses	root
+1910	1900s	senang	Raksi 210b	verses	root
+1910	1900s	senang	Raksi 211a	verses	root
+1930	1900s	senang	TZA 1.681c	verses	root
+1930	1900s	senang	TZA 1.806c	verses	root
+1930	1900s	senang	TZA 1.844a	verses	root
+1930	1900s	senang	TZA 1.894b	verses	root
+1930	1900s	senang	TZA 2.156d	verses	root
+1930	1900s	senang	TZA 2.221b	verses	root
+1930	1900s	senang	TZA 2.298d	verses	root
+1930	1900s	senang	TZA 2.299d	verses	root
+1930	1900s	senang	TZA 2.507d	verses	root
+1930	1900s	senang	TZA 2.530c	verses	root
+1930	1900s	senang	TZA 2.783a	verses	root
+1930	1900s	senang	TZA 2.784c	verses	root
+1930	1900s	senang	TZA 2.1451a	verses	root
+1600	1600s	ceria	TS.K 115:6	prose	root
+1600	1600s	ceria	TS.R 118:15	prose	root
+1930	1900s	ceria	PK 89:12b	newspapers	root
+1860	1800s	ceria	Dmsy.S 1401b	verses	root
+1380	1300s	riang	AHmz 312:2	prose	root
+1380	1300s	riang	TBarus 198:23	prose	root
+1950	1900s	riang	Sikka 17	prose	root
+1850	1800s	riang	Pwng 7	tracts_&_manuals	root
+1850	1800s	riang	Pwng 162	tracts_&_manuals	root
+1850	1800s	riang	Pwng 214	tracts_&_manuals	root
+1930	1900s	riang	WM 9Dec31:?	newspapers	root
+1930	1900s	riang	M 25Jan32:6	newspapers	root
+1930	1900s	riang	MG Jan33:3	newspapers	root
+1930	1900s	riang	WM 19Apr34:8	newspapers	root
+1930	1900s	riang	WM 24May34:5	newspapers	root
+1930	1900s	riang	MG Oct34:367	newspapers	root
+1930	1900s	riang	WM 16Jan35:?	newspapers	root
+1930	1900s	riang	MG Mar35:103	newspapers	root
+1930	1900s	riang	MG Mar35:103	newspapers	root
+1930	1900s	riang	M 3Apr35:9	newspapers	root
+1930	1900s	riang	M 25Jul35:9	newspapers	root
+1930	1900s	riang	S 9May36:4	newspapers	root
+1930	1900s	riang	S 10Jun36:2	newspapers	root
+1930	1900s	riang	S 13Jun36:9	newspapers	root
+1930	1900s	riang	S 18Jul36:4	newspapers	root
+1930	1900s	riang	S 30Jan37:7	newspapers	root
+1930	1900s	riang	S 6Nov37:7	newspapers	root
+1940	1900s	riang	PK 191:3a	newspapers	root
+1850	1800s	riang	Kumb 186b	verses	root
+1870	1800s	riang	Buah 19r 3c	verses	root
+1890	1800s	riang	SAB 17:6c	verses	root
+1890	1800s	riang	SAB 17:7a	verses	root
+1890	1800s	riang	SAB 64:6c	verses	root
+1910	1900s	riang	Das 36:7c	verses	root
+1370	1300s	senang	Bayan 209:23	prose	nominalised
+1760	1700s	senang	BSK 204/61	prose	nominalised
+1760	1700s	senang	BSK 227/69	prose	nominalised
+1760	1700s	senang	BSK 272/74	prose	nominalised
+1770	1700s	senang	BSK 11/17	prose	nominalised
+1770	1700s	senang	BSK 393/106	prose	nominalised
+1780	1700s	senang	BSK 399/106	prose	nominalised
+1830	1800s	senang	Abd.PK 39	prose	nominalised
+1830	1800s	senang	Abd.PK 39	prose	nominalised
+1830	1800s	senang	Abd.PK 39	prose	nominalised
+1830	1800s	senang	Abd.PK 157	prose	nominalised
+1830	1800s	senang	TBarus 200:10	prose	nominalised
+1840	1800s	senang	Abd.C KA 50	prose	nominalised
+1840	1800s	senang	Abd.C KA 67	prose	nominalised
+1840	1800s	senang	Abd.C KA 77	prose	nominalised
+1840	1800s	senang	Abd.C KA 79	prose	nominalised
+1840	1800s	senang	Abd.C KA 81	prose	nominalised
+1840	1800s	senang	Abd.H 126:4	prose	nominalised
+1840	1800s	senang	Abd.H 152:7	prose	nominalised
+1840	1800s	senang	Abd.H 244:7	prose	nominalised
+1840	1800s	senang	Abd.H 247:2	prose	nominalised
+1840	1800s	senang	Abd.H 302:13	prose	nominalised
+1840	1800s	senang	Abd.H 339:3	prose	nominalised
+1840	1800s	senang	Abd.H 416:14	prose	nominalised
+1840	1800s	senang	Abd.H 421:3	prose	nominalised
+1840	1800s	senang	Abd.H 421:5	prose	nominalised
+1840	1800s	senang	Abd.H 423:9	prose	nominalised
+1840	1800s	senang	Abd.H 441:2	prose	nominalised
+1850	1800s	senang	Siak 641	prose	nominalised
+1860	1800s	senang	BSK 439/118	prose	nominalised
+1860	1800s	senang	M&B 88:13	prose	nominalised
+1860	1800s	senang	M&B 167:28	prose	nominalised
+1860	1800s	senang	M&B 200:26	prose	nominalised
+1860	1800s	senang	M&B 201:2	prose	nominalised
+1860	1800s	senang	M&B 225:10	prose	nominalised
+1860	1800s	senang	M&B 247:13	prose	nominalised
+1860	1800s	senang	M&B 259:16	prose	nominalised
+1860	1800s	senang	TN 51:10	prose	nominalised
+1860	1800s	senang	TN 146:19	prose	nominalised
+1860	1800s	senang	TN 250:14	prose	nominalised
+1870	1800s	senang	NAsik 75	prose	nominalised
+1870	1800s	senang	KSPL Yos 23:1	prose	nominalised
+1870	1800s	senang	KSPL 2Sa 7:1	prose	nominalised
+1870	1800s	senang	KSPL 2Sa 7:11	prose	nominalised
+1870	1800s	senang	KSPL 1Ta 22:9	prose	nominalised
+1870	1800s	senang	KSPL Est 5:9	prose	nominalised
+1870	1800s	senang	KSPL Ayu 3:13	prose	nominalised
+1870	1800s	senang	KSPL Ayu 21:23	prose	nominalised
+1870	1800s	senang	KSPL Ams 17:1	prose	nominalised
+1870	1800s	senang	KSPL Kho 4:6	prose	nominalised
+1870	1800s	senang	KSPL Kho 9:7	prose	nominalised
+1870	1800s	senang	KSPL Yes 14:3	prose	nominalised
+1870	1800s	senang	KSPL Yes 28:12	prose	nominalised
+1870	1800s	senang	KSPL Yes 32:17	prose	nominalised
+1870	1800s	senang	KSPL Yes 57:16	prose	nominalised
+1870	1800s	senang	KSPL Yes 61:2	prose	nominalised
+1870	1800s	senang	KSPL Yer 6:16	prose	nominalised
+1870	1800s	senang	KSPL Yer 31:2	prose	nominalised
+1870	1800s	senang	KSPL Yer 45:3	prose	nominalised
+1870	1800s	senang	KSPL Zak 8:10	prose	nominalised
+1880	1800s	senang	Pah 31:19	prose	nominalised
+1900	1900s	senang	CJen.B 56:5	prose	nominalised
+1900	1900s	senang	CJen.L 87:30	prose	nominalised
+1930	1900s	senang	KSPB Yoh 11:13	prose	nominalised
+1930	1900s	senang	KSPB 2Te 1:7	prose	nominalised
+1950	1900s	senang	Sikka 228	prose	nominalised
+1820	1800s	senang	Tkbr 2:11	tracts_&_manuals	nominalised
+1820	1800s	senang	Tkbr 16:2	tracts_&_manuals	nominalised
+1820	1800s	senang	Tkbr 26:6	tracts_&_manuals	nominalised
+1710	1700s	senang	Wrkh 7:1	letters_&_documents	nominalised
+1780	1700s	senang	PRiau 7:8	letters_&_documents	nominalised
+1780	1700s	senang	PBanj 88:15	letters_&_documents	nominalised
+1790	1700s	senang	WSumB 1:22	letters_&_documents	nominalised
+1790	1700s	senang	WSumB 2:21	letters_&_documents	nominalised
+1790	1700s	senang	PBanj 150:5	letters_&_documents	nominalised
+1790	1700s	senang	WBima L 3:7	letters_&_documents	nominalised
+1790	1700s	senang	SRN 47:1	letters_&_documents	nominalised
+1800	1800s	senang	SRN 49:4	letters_&_documents	nominalised
+1800	1800s	senang	SRN 49:5	letters_&_documents	nominalised
+1810	1800s	senang	Wrkh 40:7	letters_&_documents	nominalised
+1810	1800s	senang	Minto 14	letters_&_documents	nominalised
+1810	1800s	senang	Minto 20	letters_&_documents	nominalised
+1810	1800s	senang	Minto 27	letters_&_documents	nominalised
+1810	1800s	senang	Wrkh 64:3	letters_&_documents	nominalised
+1810	1800s	senang	Wrkh 64:3	letters_&_documents	nominalised
+1810	1800s	senang	Gold 17:2	letters_&_documents	nominalised
+1810	1800s	senang	Gold 17:3	letters_&_documents	nominalised
+1810	1800s	senang	SRN 8:4	letters_&_documents	nominalised
+1820	1800s	senang	Farq 87:20	letters_&_documents	nominalised
+1820	1800s	senang	Farq 89:21	letters_&_documents	nominalised
+1820	1800s	senang	Farq 100:28	letters_&_documents	nominalised
+1820	1800s	senang	Farq 105:10	letters_&_documents	nominalised
+1820	1800s	senang	Farq 106:17	letters_&_documents	nominalised
+1820	1800s	senang	WBrn 15:16	letters_&_documents	nominalised
+1820	1800s	senang	WBrn 15:25	letters_&_documents	nominalised
+1820	1800s	senang	WBrn 16:12	letters_&_documents	nominalised
+1820	1800s	senang	SRN 9:5	letters_&_documents	nominalised
+1820	1800s	senang	SRN 11:4	letters_&_documents	nominalised
+1820	1800s	senang	SRN 11:4	letters_&_documents	nominalised
+1820	1800s	senang	SRN 11:6	letters_&_documents	nominalised
+1820	1800s	senang	SRN 29:1	letters_&_documents	nominalised
+1820	1800s	senang	SRN 35:1	letters_&_documents	nominalised
+1820	1800s	senang	SITS 314:8	letters_&_documents	nominalised
+1820	1800s	senang	SITS 330:5	letters_&_documents	nominalised
+1820	1800s	senang	SITS 348:46	letters_&_documents	nominalised
+1820	1800s	senang	Gold 16:1	letters_&_documents	nominalised
+1820	1800s	senang	SRN 28:2	letters_&_documents	nominalised
+1820	1800s	senang	SRN 31:2	letters_&_documents	nominalised
+1820	1800s	senang	SRN 32:1	letters_&_documents	nominalised
+1820	1800s	senang	SRN 32:1	letters_&_documents	nominalised
+1820	1800s	senang	SRN 32:5	letters_&_documents	nominalised
+1840	1800s	senang	SRN 20:2	letters_&_documents	nominalised
+1840	1800s	senang	Wrkh 85:2	letters_&_documents	nominalised
+1860	1800s	senang	PBanj 268:24	letters_&_documents	nominalised
+1860	1800s	senang	VdW HI 22:2	letters_&_documents	nominalised
+1860	1800s	senang	VdW HI 27:2	letters_&_documents	nominalised
+1870	1800s	senang	VdW RAH D8:2	letters_&_documents	nominalised
+1900	1900s	senang	WTgn 7 855:23	letters_&_documents	nominalised
+1900	1900s	senang	WTgn 8 857:34	letters_&_documents	nominalised
+1900	1900s	senang	Imam 313:23	newspapers	nominalised
+1900	1900s	senang	Imam 317:5	newspapers	nominalised
+1900	1900s	senang	Imam 322:23	newspapers	nominalised
+1900	1900s	senang	Imam 324:26	newspapers	nominalised
+1900	1900s	senang	Imam 341:19	newspapers	nominalised
+1900	1900s	senang	Imam 341:37	newspapers	nominalised
+1900	1900s	senang	Imam 342:7	newspapers	nominalised
+1900	1900s	senang	Imam 355:3	newspapers	nominalised
+1900	1900s	senang	Imam 364:18	newspapers	nominalised
+1900	1900s	senang	Imam 488:38	newspapers	nominalised
+1900	1900s	senang	Imam 375:3	newspapers	nominalised
+1900	1900s	senang	Imam 375:3	newspapers	nominalised
+1900	1900s	senang	Imam 377:34	newspapers	nominalised
+1900	1900s	senang	Imam 384:3	newspapers	nominalised
+1900	1900s	senang	Imam 384:8	newspapers	nominalised
+1900	1900s	senang	Imam 387:12	newspapers	nominalised
+1900	1900s	senang	Imam 389:15	newspapers	nominalised
+1900	1900s	senang	Imam 391:7	newspapers	nominalised
+1900	1900s	senang	Imam 391:29	newspapers	nominalised
+1900	1900s	senang	Imam 393:17	newspapers	nominalised
+1900	1900s	senang	Imam 417:17	newspapers	nominalised
+1900	1900s	senang	Imam 417:27	newspapers	nominalised
+1900	1900s	senang	Imam 417:28	newspapers	nominalised
+1900	1900s	senang	Imam 418:24 .	newspapers	nominalised
+1900	1900s	senang	Imam 419:7	newspapers	nominalised
+1900	1900s	senang	Imam 420:16	newspapers	nominalised
+1900	1900s	senang	Imam 420:31	newspapers	nominalised
+1900	1900s	senang	Imam 421:2	newspapers	nominalised
+1900	1900s	senang	Imam 458:14	newspapers	nominalised
+1900	1900s	senang	Imam 459:15	newspapers	nominalised
+1900	1900s	senang	Imam 478:4	newspapers	nominalised
+1900	1900s	senang	Imam 478:27	newspapers	nominalised
+1900	1900s	senang	Imam 480:14	newspapers	nominalised
+1920	1900s	senang	PK 10:7a	newspapers	nominalised
+1930	1900s	senang	S 8Feb30:8	newspapers	nominalised
+1930	1900s	senang	MG Mar30:5	newspapers	nominalised
+1930	1900s	senang	MG Jun30:113	newspapers	nominalised
+1930	1900s	senang	S 21Jun30:1	newspapers	nominalised
+1930	1900s	senang	S 21Jun30:1	newspapers	nominalised
+1930	1900s	senang	S 21Jun30:1	newspapers	nominalised
+1930	1900s	senang	MG Sep30:168	newspapers	nominalised
+1930	1900s	senang	S 25Apr31:8	newspapers	nominalised
+1930	1900s	senang	S May31:?	newspapers	nominalised
+1930	1900s	senang	S 2May31:7	newspapers	nominalised
+1930	1900s	senang	S 9May31:1	newspapers	nominalised
+1930	1900s	senang	S 9May31:1	newspapers	nominalised
+1930	1900s	senang	S 16May31:1	newspapers	nominalised
+1930	1900s	senang	S 1Aug31:5	newspapers	nominalised
+1930	1900s	senang	S 1Aug31:5	newspapers	nominalised
+1930	1900s	senang	S 20Aug31:6	newspapers	nominalised
+1930	1900s	senang	S 20Aug31:6	newspapers	nominalised
+1930	1900s	senang	S Oct31:?	newspapers	nominalised
+1930	1900s	senang	WM 3Dec31:4	newspapers	nominalised
+1930	1900s	senang	S 9Mar32:5	newspapers	nominalised
+1930	1900s	senang	S 9Mar32:5	newspapers	nominalised
+1930	1900s	senang	M 7Apr32:6	newspapers	nominalised
+1930	1900s	senang	S 7May32:5	newspapers	nominalised
+1930	1900s	senang	M 18Jul32:6	newspapers	nominalised
+1930	1900s	senang	S 10Aug32:6	newspapers	nominalised
+1930	1900s	senang	S 10Aug32:7	newspapers	nominalised
+1930	1900s	senang	S 10Aug32:7	newspapers	nominalised
+1930	1900s	senang	S 17Aug32:6	newspapers	nominalised
+1930	1900s	senang	S 17Aug32:6	newspapers	nominalised
+1930	1900s	senang	S 17Aug32:6	newspapers	nominalised
+1930	1900s	senang	MG Sep32:223	newspapers	nominalised
+1930	1900s	senang	M 1Sep32:5	newspapers	nominalised
+1930	1900s	senang	M 5Sep32:5	newspapers	nominalised
+1930	1900s	senang	S 29Sep32:7	newspapers	nominalised
+1930	1900s	senang	S 29Sep32:7	newspapers	nominalised
+1930	1900s	senang	M 10Oct32:5	newspapers	nominalised
+1930	1900s	senang	S 15Oct32:1	newspapers	nominalised
+1930	1900s	senang	MG Nov32:335	newspapers	nominalised
+1930	1900s	senang	MG Nov32:335	newspapers	nominalised
+1930	1900s	senang	M 5Dec32:3	newspapers	nominalised
+1930	1900s	senang	M 19Dec32:5	newspapers	nominalised
+1930	1900s	senang	S 31Dec32:6	newspapers	nominalised
+1930	1900s	senang	S 31Dec32:6	newspapers	nominalised
+1930	1900s	senang	S 31Dec32:6	newspapers	nominalised
+1930	1900s	senang	S 31Dec32:6	newspapers	nominalised
+1930	1900s	senang	S 8Feb33:4	newspapers	nominalised
+1930	1900s	senang	S 3May33:5	newspapers	nominalised
+1930	1900s	senang	WM 1Mar34:7	newspapers	nominalised
+1930	1900s	senang	WM 5Mar34:4	newspapers	nominalised
+1930	1900s	senang	WM 30Apr34:7	newspapers	nominalised
+1930	1900s	senang	MG Aug34:201	newspapers	nominalised
+1930	1900s	senang	MG Oct34:367	newspapers	nominalised
+1930	1900s	senang	MG Dec34:446	newspapers	nominalised
+1930	1900s	senang	MG Dec34:443	newspapers	nominalised
+1930	1900s	senang	MG Dec34:443	newspapers	nominalised
+1930	1900s	senang	MG Dec34:443	newspapers	nominalised
+1930	1900s	senang	MG Dec34:443	newspapers	nominalised
+1930	1900s	senang	MG Dec34:443	newspapers	nominalised
+1930	1900s	senang	M 10Dec34:12	newspapers	nominalised
+1930	1900s	senang	MG Jan35:27	newspapers	nominalised
+1930	1900s	senang	MG Jan35:27	newspapers	nominalised
+1930	1900s	senang	M 28Jan35:8	newspapers	nominalised
+1930	1900s	senang	M 28Jan35:12	newspapers	nominalised
+1930	1900s	senang	S 25May35:3	newspapers	nominalised
+1930	1900s	senang	S 29May35:5	newspapers	nominalised
+1930	1900s	senang	S 29May35:5	newspapers	nominalised
+1930	1900s	senang	S 4Jun35:6	newspapers	nominalised
+1930	1900s	senang	S 4Jun35:6	newspapers	nominalised
+1930	1900s	senang	S 4Jun35:6	newspapers	nominalised
+1930	1900s	senang	M 10Jun35:12	newspapers	nominalised
+1930	1900s	senang	S 21Jul35:6	newspapers	nominalised
+1930	1900s	senang	S 21Jul35:6	newspapers	nominalised
+1930	1900s	senang	S 28Aug35:2	newspapers	nominalised
+1930	1900s	senang	S 31Aug35:2	newspapers	nominalised
+1930	1900s	senang	M 2Sep35:5	newspapers	nominalised
+1930	1900s	senang	S 4Sep35:6	newspapers	nominalised
+1930	1900s	senang	MG Nov35:416	newspapers	nominalised
+1930	1900s	senang	M 23Nov35:12	newspapers	nominalised
+1930	1900s	senang	M 1Dec35:8	newspapers	nominalised
+1930	1900s	senang	S 1Jan36:2	newspapers	nominalised
+1930	1900s	senang	S 22Feb36:9	newspapers	nominalised
+1930	1900s	senang	S 9May36:4	newspapers	nominalised
+1930	1900s	senang	S 16May36:3	newspapers	nominalised
+1930	1900s	senang	S 16May36:3	newspapers	nominalised
+1930	1900s	senang	S 16May36:3	newspapers	nominalised
+1930	1900s	senang	S 6Jun36:2	newspapers	nominalised
+1930	1900s	senang	S 26Aug36:9	newspapers	nominalised
+1930	1900s	senang	S 26Sep36:2	newspapers	nominalised
+1930	1900s	senang	S 26Sep36:2	newspapers	nominalised
+1930	1900s	senang	PK 77:5c	newspapers	nominalised
+1930	1900s	senang	S 19Jan37:9	newspapers	nominalised
+1930	1900s	senang	S 28Apr37:4	newspapers	nominalised
+1930	1900s	senang	S 6Mar37:9	newspapers	nominalised
+1930	1900s	senang	S 14Apr37:4	newspapers	nominalised
+1930	1900s	senang	S 1Dec37:3	newspapers	nominalised
+1930	1900s	senang	S 25Dec37:2	newspapers	nominalised
+1930	1900s	senang	S 22Oct38:3	newspapers	nominalised
+1930	1900s	senang	S 22Oct38:4	newspapers	nominalised
+1930	1900s	senang	PK 125:12d	newspapers	nominalised
+1930	1900s	senang	PK 140:4d	newspapers	nominalised
+1930	1900s	senang	S 31May39:5	newspapers	nominalised
+1940	1900s	senang	PK 146:2a	newspapers	nominalised
+1940	1900s	senang	PK 182:10b	newspapers	nominalised
+1940	1900s	senang	PK 269:11d	newspapers	nominalised
+1940	1900s	senang	S 13Jan40:2	newspapers	nominalised
+1940	1900s	senang	S 20Jan40:5	newspapers	nominalised
+1940	1900s	senang	S 20Jan40:5	newspapers	nominalised
+1940	1900s	senang	S 27Jan40:3	newspapers	nominalised
+1940	1900s	senang	S 17Feb40:4	newspapers	nominalised
+1940	1900s	senang	PK 294:23c	newspapers	nominalised
+1940	1900s	senang	PK 304:9d	newspapers	nominalised
+1940	1900s	senang	PK 324:1d	newspapers	nominalised
+1810	1800s	senang	Fansur 14:9a	verses	nominalised
+1820	1800s	senang	Kosta 607b	verses	nominalised
+1820	1800s	senang	T&K 4v,5c	verses	nominalised
+1830	1800s	senang	Mekah 1d	verses	nominalised
+1830	1800s	senang	Perb 6a	verses	nominalised
+1870	1800s	senang	Buah 60v 1d	verses	nominalised
+1870	1800s	senang	WHaji f.43	verses	nominalised
+1890	1800s	senang	SSiti 189:10d	verses	nominalised
+1890	1800s	senang	SAB 166:7b	verses	nominalised
+1890	1800s	senang	SAB 167:1d	verses	nominalised
+1890	1800s	senang	SAB 167:5d	verses	nominalised
+1890	1800s	senang	SAB 167:6b	verses	nominalised
+1890	1800s	senang	SAB 171:6c	verses	nominalised
+1890	1800s	senang	SAB 183:4d	verses	nominalised
+1890	1800s	senang	SAB 183:6a	verses	nominalised
+1890	1800s	senang	SAB 183:7d	verses	nominalised
+1890	1800s	senang	SAB 184:1c	verses	nominalised
+1890	1800s	senang	SAB 184:5d	verses	nominalised
+1890	1800s	senang	SAB 184:6a	verses	nominalised
+1890	1800s	senang	SAB 184:6c	verses	nominalised
+1890	1800s	senang	SAB 185:3b	verses	nominalised
+1890	1800s	senang	SAB 195:4b	verses	nominalised
+1890	1800s	senang	SAB 195:5a	verses	nominalised
+1890	1800s	senang	SAB 195:5b	verses	nominalised
+1890	1800s	senang	SAB 196:5d	verses	nominalised
+1910	1900s	senang	Raksi 25c	verses	nominalised
+1910	1900s	senang	Raksi 220c	verses	nominalised
+1930	1900s	senang	TZA 1.679d	verses	nominalised
+1930	1900s	senang	TZA 1.805b	verses	nominalised
+1930	1900s	senang	TZA 1.811d	verses	nominalised
+1930	1900s	senang	TZA 1.897b	verses	nominalised
+1930	1900s	senang	TZA 2.538d	verses	nominalised
+1930	1900s	senang	TZA 2.1461a	verses	nominalised
+1880	1800s	riang	Pah 11:36	prose	nominalised
+1930	1900s	riang	S 11May32:6	newspapers	nominalised
+1930	1900s	riang	M 6Feb33:6	newspapers	nominalised
+1930	1900s	riang	S 15Jan36:8	newspapers	nominalised
+1930	1900s	riang	PK 101:2c	newspapers	nominalised
+1920	1900s	gembira	PK 7:12d	newspapers	nominalised
+1930	1900s	gembira	S 6Nov37:7	newspapers	nominalised
+1930	1900s	gembira	PK 107:5d	newspapers	nominalised
+1640	1600s	bahagia	BS.L 2/13:29	letters_&_documents	nominalised
+1900	1900s	bahagia	Imam 483:21	newspapers	nominalised
+1930	1900s	bahagia	S 12Sep31:1	newspapers	nominalised
+1930	1900s	bahagia	M 14Sep32:7	newspapers	nominalised
+1930	1900s	bahagia	S 29Sep32:7	newspapers	nominalised
+1930	1900s	bahagia	WM 13Jan34:16	newspapers	nominalised
+1930	1900s	bahagia	WM 13Jan34:16	newspapers	nominalised
+1930	1900s	bahagia	WM 13Jan34:16	newspapers	nominalised
+1930	1900s	bahagia	S 2Feb35:6	newspapers	nominalised
+1930	1900s	bahagia	S 15Jan36:2	newspapers	nominalised
+1930	1900s	bahagia	S 15Jan36:2	newspapers	nominalised
+1930	1900s	bahagia	S 15Jan36:2	newspapers	nominalised
+1930	1900s	bahagia	S 14Mar36:2	newspapers	nominalised
+1930	1900s	bahagia	S 16May36:3	newspapers	nominalised
+1930	1900s	bahagia	S 18Jul36:4	newspapers	nominalised
+1930	1900s	bahagia	PK 92:5d	newspapers	nominalised
+1930	1900s	bahagia	S 10Feb37:3	newspapers	nominalised
+1930	1900s	bahagia	S 17Mar37:3	newspapers	nominalised
+1930	1900s	bahagia	S 23Feb38:7	newspapers	nominalised
+1930	1900s	bahagia	S 26Oct38:3	newspapers	nominalised
+1930	1900s	bahagia	PK 125:12b	newspapers	nominalised
+1940	1900s	bahagia	PK 146:10c	newspapers	nominalised
+1940	1900s	bahagia	PK 146:11d	newspapers	nominalised
+1940	1900s	bahagia	PK 221:3d	newspapers	nominalised
+1940	1900s	bahagia	PK 262:t	newspapers	nominalised
+1940	1900s	bahagia	PK 262:1b	newspapers	nominalised
+1940	1900s	bahagia	PK 262:3d	newspapers	nominalised
+1940	1900s	bahagia	PK 262:4a	newspapers	nominalised
+1940	1900s	bahagia	PK 262:4b	newspapers	nominalised
+1940	1900s	bahagia	PK 262:4c	newspapers	nominalised
+1940	1900s	bahagia	PK 262:4d	newspapers	nominalised
+1940	1900s	bahagia	PK 262:5d	newspapers	nominalised
+1940	1900s	bahagia	S 27Jan40:3	newspapers	nominalised
+1940	1900s	bahagia	S 14Feb40:3	newspapers	nominalised
+1940	1900s	bahagia	S 14Feb40:3	newspapers	nominalised
+1940	1900s	bahagia	S 14Feb40:3	newspapers	nominalised
+1940	1900s	bahagia	S 14Feb40:3	newspapers	nominalised
+1940	1900s	bahagia	PK 290:10d	newspapers	nominalised
