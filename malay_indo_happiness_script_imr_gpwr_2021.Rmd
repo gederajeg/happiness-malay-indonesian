@@ -1,0 +1,395 @@
+---
+title: "R Notebook with codes for analysis in *Exploring diachronic salience of emotion metaphors*: *A contrastive study of HAPPINESS metaphors in Classical Malay and Indonesian*"
+author: "I Made Rajeg & Gede Primahadi Wijaya Rajeg"
+output: 
+    html_notebook:
+      toc: true
+---
+
+```{r setup}
+knitr::opts_chunk$set(fig.width = 6, 
+                      fig.asp = 0.618, 
+                      dpi = 600,
+                      echo = TRUE,
+                      message = FALSE)
+
+# tidyverse suit of packages is required to run the code
+library(tidyverse)
+
+# the gridExtra package is required to run the code
+library(gridExtra)
+
+# load the `happyr` package (Rajeg 2019) containing the Indonesian data and R functions for the analyses
+library(happyr)
+```
+
+
+```{r load-data, message = FALSE}
+# load the MCP root database
+malay_root_db <- readr::read_tsv("malay_root_db.txt")
+
+## perform some renaming and data pre-processing on the root database
+malay_root_db <- malay_root_db %>%
+  mutate(syntax = tolower(syntax),
+         syntax = str_replace(syntax, 'unsure', 'widlii'),
+         syntax = str_replace(syntax, '^dup$', 'duplicate'),
+         period_short = str_replace(period, '(..s$)', '00s'),
+         genre = if_else(str_detect(genre, '^let') == TRUE, 'letters_&_documents', genre),
+         genre = if_else(str_detect(genre, '^prose') == TRUE, 'prose', genre),
+         genre = if_else(str_detect(genre, '^tracts') == TRUE, 'tracts_&_manuals', genre),
+         genre = if_else(str_detect(genre, '^news') == TRUE, 'newspapers', genre),
+         period = str_replace(period, 's$', ''), 
+         period = as.double(period))
+
+# load the MCP nominalised ke- -an forms database
+malay_nominalised_db <- readr::read_tsv("malay_nominalised_db.txt")
+
+# load the MCP combined database of root and nominalised ke- -an forms
+malay_combined_db <- readr::read_tsv("malay_combined_db.txt")
+
+# load the MCP metaphor data
+malaymeta <- readr::read_tsv("malaymeta.txt")
+```
+
+
+# Compute the distribution of the syntax of the root (nominal vs. others)
+```{r malay-root-syntax-count}
+malay_root_syntax <- malay_root_db %>% 
+  count(syntax, words) %>% 
+  mutate(syntax_short = if_else(syntax %in% c('nominal'), 'nominal', 'misc.')) %>%
+  select(words, syntax, syntax_short, n) %>%
+  arrange(words, syntax_short, n)
+```
+
+The codes below are for generating Table 2 in the manuscript: *Analyzed tokens for the HAPPINESS nouns in MCP*
+
+```{r malay-token-count-root}
+## root tokens in MCP
+malay_root_tokens <- malay_root_syntax %>%
+  # when activated, the code below will exclude duplicates, proper names, unclear cases)
+  # filter(!str_detect(syntax, "dfm|dup|proper|widlii")) %>% 
+  group_by(words, syntax_short) %>% 
+  summarise(n = sum(n), .groups = "drop") %>% 
+  spread(key = syntax_short, value = n, fill = 0) %>% 
+  ungroup() %>% 
+  mutate(tokens = misc. + nominal) %>% 
+  rename(root_others = misc., root_nominal = nominal) %>% 
+  select(words, tokens, root_nominal, root_others)
+```
+
+```{r malay-token-count-nominalised}
+## nominalised tokens in MCP
+malay_nominalised_tokens <- malay_nominalised_db %>% 
+  count(words) %>% 
+  rename(nominalised = n)
+```
+
+```{r malay-token-count-combined}
+## cross-tab for total tokens of the HAPPINESS concepts in ke-an and root-nominal form
+malay_analysed_tokens <- malay_root_tokens %>% 
+  full_join(malay_nominalised_tokens, by = "words") %>% 
+  replace_na(list(nominalised = 0)) %>% 
+  mutate(sum_analysed_nominal = root_nominal + nominalised)
+
+malay_analysed_tokens_tidy <- malay_analysed_tokens %>% 
+  select(-tokens, -sum_analysed_nominal) %>% 
+  gather(use, n, -words) %>% 
+  mutate(words = if_else(use == "nominalised",
+                         paste("ke", words, "an", sep = ""),
+                         words))
+
+malay_tb_2 <- malay_analysed_tokens %>% 
+  select(Concepts = words, 
+         `Root tokens` = tokens,
+         `Root-nominal` = root_nominal, 
+         `*ke*- -*an* tokens` = nominalised, 
+         `Total analysed tokens (Root-nominal + *ke*- -*an*)` = sum_analysed_nominal) 
+malay_tb_2 %>% knitr::kable(caption = "The analyzed tokens for the HAPPINESS nouns in MCP.")
+
+# uncomment the code below to save the table
+# malay_tb_2 %>% write_delim(path = "table_2.txt", delim = "\t")
+```
+
+# Calculating the normalised frequencies of the HAPPINESS words per periods
+
+Preparing the datasets.
+
+```{r malay-period-freq, message = FALSE, warning = FALSE}
+malay_period_freq_tidy <- readr::read_tsv("malay_period_freq_tidy.txt") %>% 
+  group_by(periods) %>% 
+  mutate(period_total = sum(n),
+         rel_freq = round(n/sum(n), 2),
+         perc = round(n/sum(n)*100, 2)) %>% 
+  ungroup() %>% 
+  mutate(mcp_total = sum(n)) %>%
+  mutate(genres = replace(genres, genres=='prose_texts', 'prose'),
+         genres = replace(genres, genres=='verse_texts', 'verses')) %>%
+  mutate(norm_genre = round((n*1000000)/period_total, 2),
+         norm_genre1 = round((n*1000000)/mcp_total, 2)) %>%
+  group_by(periods) %>% 
+  mutate(norm_period = round((period_total*1000000)/mcp_total, 2)) %>%
+  ungroup()
+```
+
+```{r happiness-normalised-tokens-per-period, include = FALSE}
+# corpus freq per periods
+corpus_freq <- malay_period_freq_tidy %>%
+  group_by(periods) %>% 
+  summarise(n = sum(n)) %>%
+  rename(corp_freq = n)
+
+malay_periods_words_genres_freq <- readr::read_tsv("malay_periods_words_genres_freq.txt")
+lexemes_freq <- 
+  malay_periods_words_genres_freq %>% 
+  mutate(lexemes = if_else(form == "nominalised",
+                           paste("ke", words, "an", sep = ""),
+                           words)) %>% 
+  count(period_range, lexemes) %>% 
+  rename(periods = period_range)
+
+lexemes_norm_freq <- left_join(lexemes_freq, corpus_freq, 
+                               by = "periods") %>% 
+  filter(!is.na(lexemes)) %>% 
+  mutate(norm_n = round((n/corp_freq) * 1000000, 2))
+```
+
+
+# Generating revised line plot (Figure 1 in the revised manuscript)
+
+```{r line-plot-fig-1, message = FALSE, warning = FALSE}
+## REVISED: Line plot for Figure 3 (Figure 1 in the revised manuscript) in the Review of Cognitive Linguistics manuscript (1st submitted draft) =======
+# tutorial for combining ggplot2 plots (https://towardsdatascience.com/combining-multiple-ggplot2-plots-for-scientific-publications-7dd9908ebe5c)
+lexemes_norm_freq_1 <- lexemes_norm_freq %>% 
+  mutate(morphtype = if_else(str_detect(lexemes, "^ke.+an$"), "ke- -an", "root"))
+
+# plot the root first
+linep_root <- lexemes_norm_freq_1 %>%
+  filter(morphtype == "root") %>% 
+  mutate(lexemes = factor(lexemes, 
+                          levels = c("senang", "bahagia", "gembira", "riang", "ceria"))) %>% 
+  ggplot(aes(x = periods, y = norm_n, colour = lexemes, group = lexemes)) + 
+  geom_line(size = 1.5) + 
+  theme_bw(base_size = 13) +
+  theme(axis.text.x = element_text(angle = 45, 
+                                   vjust = 1, 
+                                   hjust = 1, 
+                                   size = 7.5)) +
+  labs(x = NULL,
+       subtitle = 'The token frequency of the words in each period is normalised per 1 million words.\nThe normalised frequencies are calculated on the basis of the total word-counts of texts in each period.',
+       colour = 'words',
+       y = 'frequency per million words') +
+  theme(plot.subtitle = element_text(size =8),
+        plot.caption = element_text(size = 7),
+        axis.title.y = element_text(size = 8),
+        legend.title = element_text(size = 8),
+        legend.text = element_text(size = 6.5))
+
+# plot the ke- -an types
+linep_nominalised <- lexemes_norm_freq_1 %>%
+  filter(morphtype == "ke- -an") %>% 
+  mutate(lexemes = factor(lexemes, 
+                          levels = c("kesenangan", "kebahagiaan", "kegembiraan", "keriangan"))) %>% 
+  ggplot(aes(x = periods, y = norm_n, colour = lexemes, group = lexemes)) + 
+  geom_line(size = 1.5) + 
+  theme_bw(base_size = 13) +
+  theme(axis.text.x = element_text(angle = 45, 
+                                   vjust = 1, 
+                                   hjust = 1, 
+                                   size = 7.5)) +
+  labs(x = NULL,
+       colour = 'words',
+       caption = '\nThe words in the legend are in the descending order of their normalised frequency.',
+       y = 'frequency per million words') +
+  theme(plot.subtitle = element_text(size =8),
+        plot.caption = element_text(size = 7),
+        axis.title.y = element_text(size = 8),
+        legend.title = element_text(size = 8),
+        legend.text = element_text(size = 6.5))
+p_line <- grid.arrange(linep_root, linep_nominalised, nrow = 2)
+p_line
+# uncomment the code below to save the plot
+# ggsave(plot = p_line, "RAJ3-1.png", height = 7, width = 6.5, dpi = 600)
+```
+
+
+
+# Analysis for the token and type frequency of the *Malay Concordance Project* (MCP) data
+
+```{r ttr-malay}
+ttr_malay <- ttr(malaymeta, "METAPHORS", "LEXICAL_UNIT")
+```
+
+Counting the number of conceptual metaphor types in MCP.
+
+```{r metaphor-types-malay}
+length(ttr_malay$metaphors)
+```
+
+# Analysis for the token and type frequency of the Indonesian data
+
+```{r ttr-indo}
+ttr_indo <- ttr(happyr::phd_data_metaphor, "metaphors", "lu")
+```
+
+Counting the number of conceptual metaphor types in Indonesian.
+
+```{r metaphor-types-indo}
+length(ttr_indo$metaphors)
+```
+
+# Print out the table for top-10 metaphors in MCP in terms of their token frequency
+
+```{r ttr-token-freq-malay}
+# entrenched metaphor
+entrench_malay <- arrange(top_n(ttr_malay, 10, token), desc(token))
+entrench_malay_top10 <- select(entrench_malay, metaphors, token, percentage = perc_token)
+knitr::kable(mutate(entrench_malay_top10, metaphors = happyr::scaps(metaphors)), caption = "Top-10 metaphors with high token frequency in MCP", row.names = TRUE)
+```
+
+# Print out the table for top-10 metaphors in Indonesian in terms of their token frequency
+
+```{r ttr-token-freq-indo}
+# entrenched metaphor
+entrench_indo <- arrange(top_n(ttr_indo, 10, token), desc(token))
+entrench_indo_top10 <- select(entrench_indo, metaphors, token, percentage = perc_token)
+knitr::kable(rename(mutate(entrench_indo_top10, metaphors = happyr::scaps(metaphors)), `% of token` = percentage), caption = "Top-10 metaphors with high token frequency in Indonesian", row.names = TRUE)
+```
+
+# Combining the top-10 MCP and Indonesian data for high-token frequency metaphors
+
+```{r joint-entrenched, message = FALSE, warning = FALSE}
+entrench_indo_top10$lang <- "indonesian"
+entrench_malay_top10$lang <- "malay"
+entrench_malayindo_top10 <- full_join(entrench_indo_top10,
+                                      entrench_malay_top10)
+entrench_malayindo_top10 <- mutate(entrench_malayindo_top10,
+                                   metaphors = str_replace_all(
+                                     metaphors,
+                                     "^(intensity of )?happiness is( a(n)?)?", ""))
+```
+
+# Plotting Figure 2 in the paper (Section 3.1)
+
+```{r joint-entrenched-plot, fig.asp = 0.65, fig.cap = "Top-10 metaphors with high token frequency in Malay and Indonesian"}
+entrench_joint_plot <- entrench_malayindo_top10 %>% 
+  ggplot(aes(x = reorder(metaphors, percentage), 
+             y = percentage, 
+             fill = lang)) + 
+  geom_col(position = "dodge") + 
+  coord_flip() +
+  scale_fill_brewer(name = "Corpus",
+                    breaks = c("malay", "indonesian"),
+                    labels = c("MCP", "Indonesian Leipzig")) +
+  theme_bw() +
+  geom_text(aes(label = token), position = position_dodge(width = 0.9), size = 2.5, hjust = 1.25) +
+  labs(x = NULL,
+       fill = "corpus",
+       y = "% of token",
+       subtitle = "Numbers within the bars represent raw token frequency")
+entrench_joint_plot
+# uncomment the code below to save the plot
+# entrench_joint_plot + ggsave("RAJ4.png", height = 4.5, width = 6.5, dpi = 600)
+```
+
+## Get the information on the (dominant) source frames in the POSSESSABLE OBJECT metaphor
+
+```{r frame-possessable}
+poss_frame <- happyr::get_frames("possessable", df = malaymeta, frame_var = "METANET_SOURCE_FRAMES", metaphor_var = "METAPHORS", lexunit_var = "LEXICAL_UNIT")
+```
+
+The two prominent frames in terms of their token and type frequencies are GAIN POSSESSION (N = `r poss_frame[poss_frame$frames=="GAIN POSSESSION", ]$n`; Type = `r poss_frame[poss_frame$frames=="GAIN POSSESSION", ]$type`) and TRANSFER SCENARIO (N = `r poss_frame[poss_frame$frames=="TRANSFER SCENARIO", ]$n`; Type = `r poss_frame[poss_frame$frames=="TRANSFER SCENARIO", ]$type`).
+
+```{r frame-desired-goal}
+goal_frame_malay <- happyr::get_frames("desired goal$", df = malaymeta, frame_var = "METANET_SOURCE_FRAMES", metaphor_var = "METAPHORS", lexunit_var = "LEXICAL_UNIT")
+goal_submet_malay <- happyr::get_submappings("desired", df = malaymeta, metaphor_var = "METAPHORS", submet_var = "SUBMET", lexunit_var = "LEXICAL_UNIT")
+goal_frame_indo <- happyr::get_frames("desired goal", df = happyr::phd_data_metaphor)
+```
+
+The most predominant MOTION frame is PURSUE (N = `r goal_frame_malay[goal_frame_malay$frames=="PURSUE", ]$n`; Type = `r goal_frame_malay[goal_frame_malay$frames=="PURSUE", ]$type`)
+
+
+## Codes for discussing the LOCATION-based conceptualizations of HAPPINESS
+
+```{r malay-location-frames}
+malay_location_frames <- get_frames("is a location", 
+                                    df = malaymeta, 
+                                    metaphor_var = "METAPHORS", 
+                                    frame_var = "METANET_SOURCE_FRAMES", 
+                                    lexunit_var = "LEXICAL_UNIT")
+
+malay_location_frames <- mutate(malay_location_frames, 
+                                frames = replace(frames,
+                                                 frames == "BOUNDED REGION",
+                                                 "BEING IN A BOUNDED REGION"))
+
+malay_location_frames <- malay_location_frames %>% 
+  group_by(frames) %>% 
+  summarise(n = sum(n), 
+            type = sum(type), 
+            perc = sum(perc), 
+            type_perc = sum(type_perc)) %>% 
+  arrange(desc(n))
+```
+
+In Malay, frame with highest token frequency motivating the LOCATION mapping is the BOUNDED REGION (N = `r filter(malay_location_frames, n == max(n)) %>% pull(n)`; Type = `r filter(malay_location_frames, n == max(n)) %>% pull(type)`)
+
+
+# Print out the table for top-10 metaphors in MCP in terms of their type frequency
+
+```{r productive-malay}
+prod_malay <- arrange(top_n(ttr_malay, 10, type_lu), desc(type_lu))
+prod_malay_top10 <- select(prod_malay, metaphors, token, type = type_lu, percentage_type = perc_type_lu)
+knitr::kable(rename(mutate(prod_malay_top10, metaphors = happyr::scaps(metaphors)), `% of type` = percentage_type), caption = "Top-10 metaphors with high type frequency in MCP", row.names = TRUE)
+```
+
+Metaphor that now appears in the top-10 list of metaphors with high type frequency in Malay is <span style="font-variant:small-caps;">`r setdiff(prod_malay_top10$metaphors, entrench_malay_top10$metaphors)`</span>. This indicates that top-10 metaphors with high token frequency in Malay also have high type frequency. The rank order of some of these metaphors changes in the type-frequency list. In contrast, rank-ordering metaphors in Indonesian data according to the type frequency brings up `r length(setdiff(prod_indo_top10$metaphors, entrench_indo_top10$metaphors))` metaphors absent from the token frequency list. They are <span style="font-variant:small-caps;">`r setdiff(prod_indo_top10$metaphors, entrench_indo_top10$metaphors)[1]`</span> and <span style="font-variant:small-caps;">`r setdiff(prod_indo_top10$metaphors, entrench_indo_top10$metaphors)[2]`</span> (see [\@ref(tab:productive-indo)](#productive-indo)). 
+
+# Print out the table for top-10 metaphors in Indonesian in terms of their type frequency
+
+```{r productive-indo}
+prod_indo <- arrange(top_n(ttr_indo, 10, type_lu), desc(type_lu))
+prod_indo_top10 <- select(prod_indo, metaphors, token, type = type_lu, percentage_type = perc_type_lu)
+knitr::kable(rename(mutate(prod_indo_top10, metaphors = happyr::scaps(metaphors)), `% of type` = percentage_type), caption = "Top-10 metaphors with high type frequency in Indonesian", row.names = TRUE)
+```
+
+
+# Combining the top-10 MCP and Indonesian data for high-type frequency metaphors
+
+```{r joint-productive, message = FALSE, warning = FALSE}
+prod_indo_top10$lang <- "indonesian"
+prod_malay_top10$lang <- "malay"
+prod_malayindo_top10 <- full_join(prod_indo_top10,
+                                      prod_malay_top10)
+prod_malayindo_top10 <- mutate(prod_malayindo_top10,
+                                   metaphors = str_replace_all(
+                                     metaphors,
+                                     "^(intensity of )?happiness is( a(n)?)?", ""))
+```
+
+
+```{r joint-productive-plot, fig.asp = 0.65, fig.cap = "Top-10 metaphors with high type frequency in Malay and Indonesian"}
+prod_joint_plot <- prod_malayindo_top10 %>% 
+  ggplot(aes(x = reorder(metaphors, percentage_type), 
+             y = percentage_type, 
+             fill = lang)) + 
+  geom_col(position = "dodge") + 
+  coord_flip() +
+  scale_fill_brewer(name = "Corpus",
+                    breaks = c("malay", "indonesian"),
+                    labels = c("MCP", "Indonesian Leipzig")) +
+  theme_bw() +
+  geom_text(aes(label = type), position = position_dodge(width = 0.9), size = 2.5, hjust = 1.25) +
+  labs(x = NULL,
+       fill = "corpus",
+       y = "% of type",
+       subtitle = "Numbers within the bars represent raw type frequency")
+prod_joint_plot
+# uncomment the code below to save the plot
+# prod_joint_plot + ggsave("RAJ5.png", height = 4.5, width = 6.5, dpi = 600)
+```
+
+
+
+Notes on the PLANT metaphor
+
+`r get_submappings(metaphor = 'plant', df = phd_data_metaphor) %>% filter(type_perc == max(type_perc)) %>% pull(type_perc)`% of the total `r ttr_indo %>% filter(str_detect(metaphors, 'plant')) %>% pull(type_lu)` types of the <span style="font-variant:small-caps;">plant</span> metaphor refers to the growth of the plant. This highlights the existence of <span style="font-variant:small-caps;">happiness</span>.
