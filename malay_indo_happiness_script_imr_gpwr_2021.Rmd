@@ -1,6 +1,6 @@
 ---
 title: "R Notebook with codes for analysis in *Exploring diachronic salience of emotion metaphors*: *A contrastive study of HAPPINESS metaphors in Classical Malay and Indonesian*"
-author: "I Made Rajeg & Gede Primahadi Wijaya Rajeg"
+author: "-"
 output: 
     html_notebook:
       toc: true
