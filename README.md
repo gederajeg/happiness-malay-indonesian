@@ -20,7 +20,14 @@ Commons Attribution-NonCommercial-ShareAlike 4.0 International
 License</a>.
 
 This is the repository of data and R markdown notebook for our paper
-that per 21 October 2021 is accepted for publication in the [*Review of
-Cognitive Linguistics*](https://benjamins.com/catalog/rcl).
+that per 21 October 2021 has been accepted for publication in the
+[*Review of Cognitive Linguistics*](https://benjamins.com/catalog/rcl).
+If you use the materials from this repository in your research, please
+cite it as follows (e.g., in APA style):
+
+> Rajeg, I. M., & Rajeg, G. P. W. (2021, October 28). Data and R codes
+> for *Exploring diachronic salience of emotion metaphors: A contrastive
+> study of HAPPINESS metaphors in Classical Malay and Indonesian*.
+> <https://doi.org/10.17605/OSF.IO/2Y846>
 
 More details will be added.
