@@ -1,6 +1,6 @@
 ---
 title: "R Notebook with codes for analysis in *Exploring diachronic salience of emotion metaphors*: *A contrastive study of HAPPINESS metaphors in Classical Malay and Indonesian*"
-author: "-"
+author: '*by* [I Made Rajeg](https://udayananetworking.unud.ac.id/lecturer/1817-i-made-rajeg) <a itemprop="sameAs" content="https://orcid.org/0000-0001-8989-0203" href="https://orcid.org/0000-0001-8989-0203" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> & [Gede Primahadi Wijaya Rajeg](https://udayananetworking.unud.ac.id/lecturer/880-gede-primahadi-wijaya-rajeg) <a itemprop="sameAs" content="https://orcid.org/0000-0002-2047-8621" href="https://orcid.org/0000-0002-2047-8621" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>'
 output: 
     html_notebook:
       toc: true
@@ -110,11 +110,36 @@ malay_tb_2 %>% knitr::kable(caption = "The analyzed tokens for the HAPPINESS nou
 # malay_tb_2 %>% write_delim(path = "table_2.txt", delim = "\t")
 ```
 
+# Genre distribution of the MCP corpus
+
+```{r malay-size-by-genre, message = FALSE, warning = FALSE}
+totals_by_text <- readr::read_tsv('totals_by_texts.txt')
+totals_by_text1 <- totals_by_text %>% 
+  rename(genre = classification) %>% 
+  group_by(genre) %>% 
+  summarise(n = sum(words), .groups = "drop") %>% 
+  mutate(prop = round(n/sum(n) * 100, 2)) %>% 
+  arrange(desc(prop))
+totals_by_text1
+total_mcp <- sum(totals_by_text1$n)
+total_mcp
+```
+
 # Calculating the normalised frequencies of the HAPPINESS words per periods
 
 Preparing the datasets.
 
-```{r malay-period-freq, message = FALSE, warning = FALSE}
+```{r malay-period-freq, message = FALSE, warning = FALSE, eval = FALSE, include = FALSE}
+readxl::read_xlsx("Malay Concordance Project_Word totals through time.xlsx", 
+                  sheet = "totals_by_periods", 
+                  range = "A1:G15") %>% # source: http://mcp.anu.edu.au/Q/words.html#bytime
+  select(periods, corp_freq = TOTALS) %>% 
+  mutate(periods = gsub("(?<=\\-)([0-9]){2}", "", periods, perl = TRUE)) %>% 
+  readr::write_tsv("malay_period_size.txt")
+```
+
+
+```{r malay-period-freq-old-unused, message = FALSE, warning = FALSE, eval = FALSE, include = FALSE}
 malay_period_freq_tidy <- readr::read_tsv("malay_period_freq_tidy.txt") %>% 
   group_by(periods) %>% 
   mutate(period_total = sum(n),
@@ -131,12 +156,9 @@ malay_period_freq_tidy <- readr::read_tsv("malay_period_freq_tidy.txt") %>%
   ungroup()
 ```
 
-```{r happiness-normalised-tokens-per-period, include = FALSE}
+```{r happiness-normalised-tokens-per-period, message = FALSE, warning = FALSE}
 # corpus freq per periods
-corpus_freq <- malay_period_freq_tidy %>%
-  group_by(periods) %>% 
-  summarise(n = sum(n)) %>%
-  rename(corp_freq = n)
+corpus_freq <- readr::read_tsv("malay_period_size.txt")
 
 malay_periods_words_genres_freq <- readr::read_tsv("malay_periods_words_genres_freq.txt")
 lexemes_freq <- 
@@ -175,14 +197,15 @@ linep_root <- lexemes_norm_freq_1 %>%
                                    hjust = 1, 
                                    size = 7.5)) +
   labs(x = NULL,
-       subtitle = 'The token frequency of the words in each period is normalised per 1 million words.\nThe normalised frequencies are calculated on the basis of the total word-counts of texts in each period.',
+       subtitle = 'The token frequency of the words in each period is normalized per 1 million words.\nThe normalized frequencies are calculated on the basis of the total word-counts of texts in each period.',
        colour = 'words',
        y = 'frequency per million words') +
   theme(plot.subtitle = element_text(size =8),
         plot.caption = element_text(size = 7),
         axis.title.y = element_text(size = 8),
         legend.title = element_text(size = 8),
-        legend.text = element_text(size = 6.5))
+        legend.text = element_text(size = 6.5)) +
+  annotate(geom = "text", x = 4, y = 260, label = "plot for the root words")
 
 # plot the ke- -an types
 linep_nominalised <- lexemes_norm_freq_1 %>%
@@ -198,17 +221,19 @@ linep_nominalised <- lexemes_norm_freq_1 %>%
                                    size = 7.5)) +
   labs(x = NULL,
        colour = 'words',
-       caption = '\nThe words in the legend are in the descending order of their normalised frequency.',
+       caption = '\nThe words in the legend are in the descending order of their normalized frequency.',
        y = 'frequency per million words') +
   theme(plot.subtitle = element_text(size =8),
         plot.caption = element_text(size = 7),
         axis.title.y = element_text(size = 8),
         legend.title = element_text(size = 8),
-        legend.text = element_text(size = 6.5))
+        legend.text = element_text(size = 6.5)) +
+  annotate(geom = "text", x = 4, y = 130, label = "plot for the nominalized words")
 p_line <- grid.arrange(linep_root, linep_nominalised, nrow = 2)
 p_line
 # uncomment the code below to save the plot
 # ggsave(plot = p_line, "RAJ3-1.png", height = 7, width = 6.5, dpi = 600)
+# ggsave(plot = p_line, "Figure1.tiff", height = 7, width = 6.5, dpi = 300, device = "tiff") #accepted manuscript
 ```
 
 
@@ -279,7 +304,7 @@ entrench_joint_plot <- entrench_malayindo_top10 %>%
   coord_flip() +
   scale_fill_brewer(name = "Corpus",
                     breaks = c("malay", "indonesian"),
-                    labels = c("MCP", "Indonesian Leipzig")) +
+                    labels = c("MCP", "Indonesian")) +
   theme_bw() +
   geom_text(aes(label = token), position = position_dodge(width = 0.9), size = 2.5, hjust = 1.25) +
   labs(x = NULL,
@@ -289,6 +314,7 @@ entrench_joint_plot <- entrench_malayindo_top10 %>%
 entrench_joint_plot
 # uncomment the code below to save the plot
 # entrench_joint_plot + ggsave("RAJ4.png", height = 4.5, width = 6.5, dpi = 600)
+# entrench_joint_plot + ggsave("Figure2.tiff", height = 4.5, width = 6.5, dpi = 300, device = "tiff") # accepted manuscript
 ```
 
 ## Get the information on the (dominant) source frames in the POSSESSABLE OBJECT metaphor
@@ -376,7 +402,7 @@ prod_joint_plot <- prod_malayindo_top10 %>%
   coord_flip() +
   scale_fill_brewer(name = "Corpus",
                     breaks = c("malay", "indonesian"),
-                    labels = c("MCP", "Indonesian Leipzig")) +
+                    labels = c("MCP", "Indonesian")) +
   theme_bw() +
   geom_text(aes(label = type), position = position_dodge(width = 0.9), size = 2.5, hjust = 1.25) +
   labs(x = NULL,
@@ -386,6 +412,7 @@ prod_joint_plot <- prod_malayindo_top10 %>%
 prod_joint_plot
 # uncomment the code below to save the plot
 # prod_joint_plot + ggsave("RAJ5.png", height = 4.5, width = 6.5, dpi = 600)
+# prod_joint_plot + ggsave("Figure3.tiff", height = 4.5, width = 6.5, dpi = 300, device = "tiff") # accepted manuscript
 ```
 
 
