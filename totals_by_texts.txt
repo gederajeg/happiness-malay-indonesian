@@ -1,0 +1,171 @@
+id	title	words	classification	source
+AA	Asr_r al-`_rif_n	11256	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Abd.C	Ceretera2 karangan Abdullah	12671	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Abd.H	Hikayat Abdullah bin `Abdul Kadir	106678	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Abd.PK	Pelayaran Abdullah ke Kelantan	24938	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Abd.PM	Pelayaran Abdullah ke Mekah	6895	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Abd.S	Syair2 karangan Abdullah	10618	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+ABJD	Asal Bangsa Jin & Dewa-Dewa	10435	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+ABS	Hikayat Ali Bad Syah	17546	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Aceh	Hikayat Aceh	38226	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+AHmz	Hikayat Amir Hamzah	245247	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+AN	`Aq_�id al-Nasaf_	3005	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Anb	Surat al-Anbiya'	181132	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+ARM	Adat Raja Melayu	22592	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Awai	Syair Awai	4860	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Bangka	Carita Bangka	21405	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Banj	Hikayat Banjar dan Kota Waringin	43485	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Banten	Surat Kesultanan Banten	14977	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Barus	Asal Keturunan Raja Barus	16769	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Bayan	Hikayat Bayan Budiman	69492	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+BayB	Syair Bayan Budiman	4228	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+BBT	Batu Bersurat Terengganu	272	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Bid	Syair Bidasari	30305	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Bik	Hikayat Raja Bikrama Sakti	43922	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Bkht	Hikayat Bakhtiar	17722	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+BLR	Bo� Bumi Luma Rasanae	11082	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Boma	Hikayat Sang Boma	92282	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+BS	Bustan al-Salatin	212455	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+BSK	Bo� Sangaji Kai	130571	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+BT	Bab Takzir	3666	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Buah	Syair Buah-Buahan	15960	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+CJen	Cerita Jenaka	22554	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+CPK	Cerita Patani dan Kelantan	4521	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Das	Syair Nyai Dasima	4924	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+DBB	Syair Dagang Berjual-Beli	1069	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Dmsy.H	Hikayat Raja Damsyik	20156	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Dmsy.S	Syair Raja Damsyik	34462	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+EPut	Syair Engku Puteri	4757	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Fansur	Syair Sultan Fansuri�	2332	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Farq	Surat Farquhar	25869	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Gold	Golden Letters / Surat Emas	6154	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Guna	Perhimpunan Gunawan bagi Laki2 dan Perempuan	8423	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+HAR	Hadiqat al-Azhar wa'l-Riyahin	5835	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Hemop	Syair Hemop	29704	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+HF	Syair Hamzah Fansuri	16044	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Hitu	Hikayat Tanah Hitu	21652	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+HS	Hujjat al-Sidd_q	5067	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Hsn	Hikayat Hasanuddin	17692	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Iblis	Hikayat Iblis	2576	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+IbrA	Hikayat Ibrahim ibn Adham (long version)	26098	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+IbrA.s	Hikayat Ibrahim ibn Adham (short version)	7489	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Imam	Al-Imam	44816	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+IMTS	Itq_n al-Mul_k bi Ta`d_l al-Sul_k	2355	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+INata	Hikayat Indera Nata	46223	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Ind	Hikayat Inderaputera	70993	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Isk	Hikayat Iskandar Zulkarnain	118352	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+J&P	Hikayat Johor serta Pahang	7546	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+JM	Jawharat al-Ma`_rif	3650	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+JPati	Hikayat Putera Jaya Pati	26959	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+K&M	Syair Kumbang dan Melati	4321	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+KBima	Syair Kerajaan Bima	8856	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Kel	Civil War in Kelantan	13094	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Kmt	Syair Kiamat	10311	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Kosta	Syair Sinyor Kosta	11469	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+KS	Kitab Suci	753731	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+KT	Syair Ken Tambuhan	22255	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+KTS	Syair Kunjungan Tengku Selangor	1127	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Kumb	Syair Kumbang Mengindera	3912	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Kupu	Syair Sang Kupu-Kupu	1452	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Kutai	Cerita Kutai	39815	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+LKrm	Syair Lampung Karam	6507	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+M	Majlis	117507	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+M&B	Salasilah Melayu dan Bugis	69619	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Mar	Hikayat Maharaja Marakarma	93785	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Maul	Syair Sultan Maulana	18948	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Mekah	Syair Mekah Madinah	7659	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+MG	Majalah Guru	90667	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+MH	Hikayat Muhammad Hanafiah	57396	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Minto	Minto Proclamation	743	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Misa	Misa Melayu	34617	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Misk	Hikayat Marakarma (Si Miskin)	30459	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+MN	Muhimmat al-Nafa�is	24911	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Mpt	Hikayat Merpati Mas dan Merpati Perak�	50023	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+MSiamB	Syair Seri Maharaja Siam di Betawi	3646	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Munt	Muntah_	3080	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+MW	Hikayat Merong Mahawangsa	39209	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Mwr	Syair Bunga Air Mawar	2626	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+NAsik	Hikayat Nakhoda Asik	26194	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+NasTgn	Syair Nasihat Terengganu	402	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+NJoh	Hikayat Negeri Johor	13516	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+NMuda	Hikayat Nakhoda Muda	17747	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Nuri	Syair Nuri dengan Simbangan	3228	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+NurP	Syair Sultan Nur Peri	11672	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Nymk	Syair Nyamuk dan Lalat	4900	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Pah	Hikayat Pahang	46230	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+PandL	Hikayat PandLawa Lima	85791	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Panji	Hikayat Panji Kuda Semirang	118493	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Pasai	Hikayat Raja Pasai	22541	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Pat	Hikayat Patani	21336	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+PBali	Perjanjian Bali-Belanda	21700	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+PBanj	Perjanjian Banjar-Belanda	30071	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Pel	Hikayat Pelanduk Jenaka	6706	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Perak	Silsilah Perak	9786	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Perb	Syair Tengku Perbu	3615	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+PG	Syair Potong Gaji	732	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+PiagM	Piagam Muara Mendras	1102	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+PiagS	Piagam Serampas	1469	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+PJ	Syair Perang Johor	6264	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+PK	Puisi-Puisi Kebangsaan	34205	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+PNB	Hikayat Perintah Negeri Benggala	23237	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+PPRiau	Peringatan Pelayaran ke Riau	4755	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+PRiau	Perjanjian Riau-Belanda	36047	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+PRO	Indonesian letters in the Public Record Office	1620	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+PSL	Syair Perjalanan Sultan Lingga	5934	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+PTgn	Perjanjian Terengganu-Inggeris 1910�	586	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Pung	Syair Burung Pungguk	2317	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Puras	Hikayat Purasara	27130	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Pwng	Surat Pawang	28123	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+QB	Qasidah al-Burdah	3306	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+R	R_n_r_ excerpts	1502	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Raksi	Syair Raksi	4749	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Rama	Hikayat Seri Rama	96083	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+RIJ	Raja Inggeris Jubili	355	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+RJoh	Syair Raja Johor	17555	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+RS	Risalah Shihabuddin	4071	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+RT	Risalah fi 'l-Tawhid	11697	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+S	Saudara	307344	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+SA	Shar_b al-`_shik_n	5462	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+SAB	Syair almarhum Sultan Abubakar	28176	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+SBima	Hikayat Sang Bima	25324	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+SBod	Syair Saudagar Bodoh	5482	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Siak	Hikayat Siak	48459	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Sikka	Hikayat Kerajaan Sikka	78576	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+SITS	Surat Ingatan Tengku Said	8556	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+SJal	Surat Keterangan Syeikh Jalaluddin	8927	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+SKel	Hikayat Seri Kelantan	28603	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+SM	Sejarah Melayu	94257	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+SMrdn	Hikayat Syah Mardan	31140	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Srg	Syair Syurga	2155	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+SRN	Surat Beriluminasi Raja Nusantara	28822	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+SSiti	Syair Seratus Siti	39921	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+ST	Sufi Tracts	14445	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+Sunur	Syair Sunur	1179	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+SWB	Spraek ende Woord-Boek	10170	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+T&K	Syair Raja Tedung dengan Raja Katak	4169	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+TBarus	Tambo Barus Hilir	19993	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Tkbr	Kitab Takbir	17561	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+TM	Tarjum_n al-Mustaf_d	11831	tracts-and-manuals	http://mcp.anu.edu.au/Q/words.html#bytext
+TN	Tuhfat al-Nafis	144853	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+TS.K	Taj al-Salatin (ed. Khalid)	65269	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+TS.R	Taj al-Salatin (Roorda)	69812	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+Tuah	Hikayat Hang Tuah	172458	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+TW	Mukhtasar Tawarikh al-Wusta	3789	prose	http://mcp.anu.edu.au/Q/words.html#bytext
+TZA	Syair Tawarikh Zainal Abidin yang Ketiga	53198	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+UKJ	Ucapan Kwin Jubili	978	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+Ungg	Syair Unggas Soal Jawab	4273	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+UU	Undang-Undang Melaka	14670	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+VdW	Surat kepada Von de Wall	50276	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+VN	Vernacular Newspapers - Editorials	9789	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+Wangk	Syair Perang Wangkang	4580	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+WBima	Warkah Bima	5247	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+WBrn	Warkah Brunei	4646	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+WButon	Warkah Buton	4794	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+WHaji	Buku Wulang Haji	2364	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+WM	Warta Malaya	44323	newspapers	http://mcp.anu.edu.au/Q/words.html#bytext
+Wrkh	Warisan Warkah Melayu	41652	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Ws	Warnasarie	417	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
+WSln	Warkah dari Sailan	2984	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+WSumB	Warkah Sumatera Barat	4086	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+WTgn	Warkah Terengganu	3343	letters-and-documents	http://mcp.anu.edu.au/Q/words.html#bytext
+Zub	Syair Siti Zubaidah Perang Cina	69679	verse texts	http://mcp.anu.edu.au/Q/words.html#bytext
